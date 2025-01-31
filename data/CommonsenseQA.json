@@ -1,0 +1,3602 @@
+[
+    {
+        "question": "Immediately after peeing, a person's bladder is what?",
+        "choices": [
+            "collapsed",
+            "empty",
+            "full",
+            "filled",
+            "stretchable"
+        ],
+        "answer": "empty",
+        "source": "CommonsenseQA"
+    },
+    {
+        "question": "If I was getting drunk, and people couldn't understand me, what might I be having?",
+        "choices": [
+            "a seizure",
+            "slurred speech",
+            "death",
+            "forgetfulness",
+            "pass out"
+        ],
+        "answer": "slurred speech",
+        "source": "CommonsenseQA"
+    },
+    {
+        "question": "To get clean clothes you to what to them?",
+        "choices": [
+            "get dirty",
+            "writing",
+            "use water",
+            "launder",
+            "soap"
+        ],
+        "answer": "launder",
+        "source": "CommonsenseQA"
+    },
+    {
+        "question": "The smile gave away that the what was one of happiness?",
+        "choices": [
+            "manual",
+            "rainbow",
+            "cry",
+            "frown",
+            "make others happy too"
+        ],
+        "answer": "cry",
+        "source": "CommonsenseQA"
+    },
+    {
+        "question": "What do humans do to other humans after death?",
+        "choices": [
+            "celebrate",
+            "burial",
+            "life",
+            "rebirth",
+            "decomposition"
+        ],
+        "answer": "burial",
+        "source": "CommonsenseQA"
+    },
+    {
+        "question": "What are people likely to want to do with their friends?",
+        "choices": [
+            "own land",
+            "own home",
+            "talk to each other",
+            "believe in god",
+            "spend time"
+        ],
+        "answer": "spend time",
+        "source": "CommonsenseQA"
+    },
+    {
+        "question": "What to kids do for boredom on a ramp?",
+        "choices": [
+            "watch film",
+            "fire game",
+            "hang out at bar",
+            "go skiing",
+            "skateboard"
+        ],
+        "answer": "skateboard",
+        "source": "CommonsenseQA"
+    },
+    {
+        "question": "Christians believe you will go to heaven if you're what?",
+        "choices": [
+            "unable to work",
+            "born again",
+            "change of color",
+            "dead",
+            "no longer exist"
+        ],
+        "answer": "born again",
+        "source": "CommonsenseQA"
+    },
+    {
+        "question": "What kind of status is the bald eagle given?",
+        "choices": [
+            "outside",
+            "world",
+            "protection",
+            "colorado",
+            "america"
+        ],
+        "answer": "protection",
+        "source": "CommonsenseQA"
+    },
+    {
+        "question": "At the end of the day as he began to eat he paused and thanked her, it wasn't often she would what?",
+        "choices": [
+            "cook dinner",
+            "did chores",
+            "make food",
+            "stretch out",
+            "get food"
+        ],
+        "answer": "cook dinner",
+        "source": "CommonsenseQA"
+    },
+    {
+        "question": "Where is a human likely to go as a result of being hungry?",
+        "choices": [
+            "eat in restaurant",
+            "make bread",
+            "have lunch",
+            "cook dinner",
+            "friends house"
+        ],
+        "answer": "eat in restaurant",
+        "source": "CommonsenseQA"
+    },
+    {
+        "question": "Where would a computer user be using their own computer?",
+        "choices": [
+            "hell",
+            "school",
+            "indoors",
+            "internet cafe",
+            "house"
+        ],
+        "answer": "house",
+        "source": "CommonsenseQA"
+    },
+    {
+        "question": "What do airplanes do as they are arriving at the gate?",
+        "choices": [
+            "slow down",
+            "crash",
+            "speed up",
+            "land",
+            "carry people"
+        ],
+        "answer": "slow down",
+        "source": "CommonsenseQA"
+    },
+    {
+        "question": "They wanted to recognize his accomplishment, where should they put his name?",
+        "choices": [
+            "certificate",
+            "directory",
+            "phone book",
+            "lineup",
+            "roster"
+        ],
+        "answer": "certificate",
+        "source": "CommonsenseQA"
+    },
+    {
+        "question": "They had a theory of what they could do in t he big game, so over and over they would what?",
+        "choices": [
+            "park",
+            "practice",
+            "fact",
+            "practical",
+            "practise"
+        ],
+        "answer": "practice",
+        "source": "CommonsenseQA"
+    },
+    {
+        "question": "The hostess greeted the employees to the program, she then led them to their what?",
+        "choices": [
+            "group people",
+            "welcome guests",
+            "occupations",
+            "work room",
+            "seat customer"
+        ],
+        "answer": "work room",
+        "source": "CommonsenseQA"
+    },
+    {
+        "question": "Talking to the same person about the same thing over and over again is something someone can what?",
+        "choices": [
+            "social life",
+            "friendship",
+            "eye contact",
+            "get tired of",
+            "learn lessons from"
+        ],
+        "answer": "get tired of",
+        "source": "CommonsenseQA"
+    },
+    {
+        "question": "Where would you find a ticket booth and see a concert?",
+        "choices": [
+            "clerk",
+            "indoors",
+            "movie theater",
+            "venue",
+            "auditorium"
+        ],
+        "answer": "venue",
+        "source": "CommonsenseQA"
+    },
+    {
+        "question": "In what substance do clouds float?",
+        "choices": [
+            "sky",
+            "top of mountain",
+            "air",
+            "ground level",
+            "outer space"
+        ],
+        "answer": "air",
+        "source": "CommonsenseQA"
+    },
+    {
+        "question": "I took my seat, the curtains drew back and I enjoyed the what?",
+        "choices": [
+            "airplane",
+            "movie",
+            "auditorium",
+            "theatre",
+            "show"
+        ],
+        "answer": "show",
+        "source": "CommonsenseQA"
+    },
+    {
+        "question": "Jane works for the government as a senator, where does she spend a lot of time?",
+        "choices": [
+            "capitol building",
+            "everything",
+            "washington d.c",
+            "russia",
+            "canada"
+        ],
+        "answer": "capitol building",
+        "source": "CommonsenseQA"
+    },
+    {
+        "question": "What kind of path do comets tend to have?",
+        "choices": [
+            "ice",
+            "set orbits",
+            "universe",
+            "space",
+            "solid nucleus"
+        ],
+        "answer": "set orbits",
+        "source": "CommonsenseQA"
+    },
+    {
+        "question": "If you wanted to show off silk, what item could it be on?",
+        "choices": [
+            "jean",
+            "mulberry tree",
+            "garments",
+            "expensive clothing",
+            "parachutes"
+        ],
+        "answer": "expensive clothing",
+        "source": "CommonsenseQA"
+    },
+    {
+        "question": "Aside from water and nourishment what does your dog need?",
+        "choices": [
+            "bone",
+            "charm",
+            "petted",
+            "lots of attention",
+            "walked"
+        ],
+        "answer": "lots of attention",
+        "source": "CommonsenseQA"
+    },
+    {
+        "question": "A traveler laments the fact that mass transit is limited in his city when his groceries get soaked by the rain as he waits where?",
+        "choices": [
+            "bus stop",
+            "library",
+            "motel",
+            "airport",
+            "subway"
+        ],
+        "answer": "bus stop",
+        "source": "CommonsenseQA"
+    },
+    {
+        "question": "To what do trees roots cling?",
+        "choices": [
+            "yard",
+            "orchard",
+            "museum",
+            "countryside",
+            "surface of earth"
+        ],
+        "answer": "surface of earth",
+        "source": "CommonsenseQA"
+    },
+    {
+        "question": "How does a person begin reproducing?",
+        "choices": [
+            "genetic mutation",
+            "have sex",
+            "kiss",
+            "flirting",
+            "going on a date"
+        ],
+        "answer": "have sex",
+        "source": "CommonsenseQA"
+    },
+    {
+        "question": "What room would you find many bookcases and is used for contemplation?",
+        "choices": [
+            "study",
+            "house",
+            "homw",
+            "kitchen",
+            "den"
+        ],
+        "answer": "study",
+        "source": "CommonsenseQA"
+    },
+    {
+        "question": "What is a place that has large cable hanging overhead?",
+        "choices": [
+            "radio shack",
+            "electrical device",
+            "shower",
+            "substation",
+            "television"
+        ],
+        "answer": "substation",
+        "source": "CommonsenseQA"
+    },
+    {
+        "question": "He was beginning to worry they wouldn't get on the ride before closing, they had been standing in queue for a long what?",
+        "choices": [
+            "frustration",
+            "waiting",
+            "hair",
+            "time",
+            "patience"
+        ],
+        "answer": "time",
+        "source": "CommonsenseQA"
+    },
+    {
+        "question": "Alabama is full of different people, but they are all citizens of what?",
+        "choices": [
+            "united states",
+            "deep south",
+            "floribama",
+            "gulf states",
+            "florabama"
+        ],
+        "answer": "united states",
+        "source": "CommonsenseQA"
+    },
+    {
+        "question": "Where do people get beer after a bit of gambling?",
+        "choices": [
+            "bottle",
+            "grocery store",
+            "casino",
+            "spaceship",
+            "hockey game"
+        ],
+        "answer": "casino",
+        "source": "CommonsenseQA"
+    },
+    {
+        "question": "The person saw the mess his children made, what was his following reaction?",
+        "choices": [
+            "smell smoke",
+            "cross street",
+            "cry",
+            "bank savings",
+            "look angry"
+        ],
+        "answer": "look angry",
+        "source": "CommonsenseQA"
+    },
+    {
+        "question": "If I want a new ottoman, where should I go?",
+        "choices": [
+            "furniture store",
+            "parlor",
+            "turkey",
+            "living room",
+            "den"
+        ],
+        "answer": "furniture store",
+        "source": "CommonsenseQA"
+    },
+    {
+        "question": "Where could you get some knives if you are planning to bring them outside with you?",
+        "choices": [
+            "sporting goods store",
+            "backpack",
+            "kitchen",
+            "sharp edges",
+            "dog house"
+        ],
+        "answer": "kitchen",
+        "source": "CommonsenseQA"
+    },
+    {
+        "question": "The pitcher stepped on the mound ready to throw, where was he located specifically?",
+        "choices": [
+            "hell",
+            "baseball stadium",
+            "golf course",
+            "africa",
+            "baseball diamond"
+        ],
+        "answer": "baseball diamond",
+        "source": "CommonsenseQA"
+    },
+    {
+        "question": "Friday was James's 5th Anniversary.  They planned on going to bed early so that they could spend a long time doing what?",
+        "choices": [
+            "rest",
+            "insomnia",
+            "making love",
+            "sleeping in",
+            "texting"
+        ],
+        "answer": "making love",
+        "source": "CommonsenseQA"
+    },
+    {
+        "question": "Who watches a play in an auditorium?",
+        "choices": [
+            "building",
+            "crowd",
+            "city",
+            "group",
+            "high school"
+        ],
+        "answer": "crowd",
+        "source": "CommonsenseQA"
+    },
+    {
+        "question": "How would you express information if you do not have a pen or pencil?",
+        "choices": [
+            "may disagree",
+            "close mouth",
+            "write down",
+            "talk",
+            "eyes"
+        ],
+        "answer": "talk",
+        "source": "CommonsenseQA"
+    },
+    {
+        "question": "Billy hated using other people's toilets. He was only comfortable on his own.  So whenever he needed to poop, he would go back to his what?",
+        "choices": [
+            "bathroom",
+            "motel room",
+            "nearest public restroom",
+            "house",
+            "apartment"
+        ],
+        "answer": "house",
+        "source": "CommonsenseQA"
+    },
+    {
+        "question": "What do people do when they don't understand something?",
+        "choices": [
+            "ask questions",
+            "experience joy",
+            "believe in god",
+            "talk to each other",
+            "get sick"
+        ],
+        "answer": "ask questions",
+        "source": "CommonsenseQA"
+    },
+    {
+        "question": "Diving into backyard pools can be very dangerous and can lead to serious head and what?",
+        "choices": [
+            "going somewhere",
+            "splats",
+            "cancer",
+            "getting wet",
+            "spinal injuries"
+        ],
+        "answer": "spinal injuries",
+        "source": "CommonsenseQA"
+    },
+    {
+        "question": "He picked up the perfect pebble, he planned to skip it across the entire small what?",
+        "choices": [
+            "manual",
+            "lake",
+            "aquarium",
+            "pond",
+            "playground"
+        ],
+        "answer": "pond",
+        "source": "CommonsenseQA"
+    },
+    {
+        "question": "Where are you if your bieifcase is going through an x-ray machine?",
+        "choices": [
+            "luggage store",
+            "courtroom",
+            "airport",
+            "office building",
+            "hand"
+        ],
+        "answer": "airport",
+        "source": "CommonsenseQA"
+    },
+    {
+        "question": "The boat passenger was explaining his fear of blowfish, but the captain figured he meant piranhas since they were on a river in the what?",
+        "choices": [
+            "cuba",
+            "styx",
+            "atlantic ocean",
+            "france",
+            "jungle"
+        ],
+        "answer": "jungle",
+        "source": "CommonsenseQA"
+    },
+    {
+        "question": "At a shop what can you buy to put your spare unused things?",
+        "choices": [
+            "basement",
+            "cardboard box",
+            "ocean floor",
+            "high school",
+            "container"
+        ],
+        "answer": "container",
+        "source": "CommonsenseQA"
+    },
+    {
+        "question": "I want my wine stored in darkness, where should it go?",
+        "choices": [
+            "movies",
+            "bed",
+            "moon",
+            "vault",
+            "cellar"
+        ],
+        "answer": "cellar",
+        "source": "CommonsenseQA"
+    },
+    {
+        "question": "Some people prefer releasing energy through work while others prefer to release it through what?",
+        "choices": [
+            "motion",
+            "stretch",
+            "exercise",
+            "movement",
+            "muscles"
+        ],
+        "answer": "exercise",
+        "source": "CommonsenseQA"
+    },
+    {
+        "question": "A mountie got off at a subway stop.  What city might he be in?",
+        "choices": [
+            "urban area",
+            "metropolis",
+            "chicago",
+            "new york city",
+            "toronto"
+        ],
+        "answer": "toronto",
+        "source": "CommonsenseQA"
+    },
+    {
+        "question": "According to what book did an apple tree lead to the downfall of man?",
+        "choices": [
+            "bible",
+            "spain",
+            "harry potter",
+            "new york",
+            "woods"
+        ],
+        "answer": "bible",
+        "source": "CommonsenseQA"
+    },
+    {
+        "question": "Where would you find gazelle under a G?",
+        "choices": [
+            "open field",
+            "ivory coast",
+            "dictionary",
+            "steppe",
+            "encyclopedia"
+        ],
+        "answer": "encyclopedia",
+        "source": "CommonsenseQA"
+    },
+    {
+        "question": "Where are people likely to become impatient?",
+        "choices": [
+            "end of line",
+            "buildings",
+            "apartment",
+            "neighbor's house",
+            "address"
+        ],
+        "answer": "end of line",
+        "source": "CommonsenseQA"
+    },
+    {
+        "question": "Where do you go on a night out before going to the bar?",
+        "choices": [
+            "new york city",
+            "las vegas",
+            "restaurant",
+            "nightclub",
+            "park"
+        ],
+        "answer": "restaurant",
+        "source": "CommonsenseQA"
+    },
+    {
+        "question": "The company sent off many purchases, they used recycled cardboard as their what?",
+        "choices": [
+            "packaging materials",
+            "recycle bin",
+            "box factory",
+            "warehouse",
+            "bowler hats"
+        ],
+        "answer": "packaging materials",
+        "source": "CommonsenseQA"
+    },
+    {
+        "question": "What negative effect can competing in a chess game on a cold day have?",
+        "choices": [
+            "enemies",
+            "perform better",
+            "sweat",
+            "tension",
+            "frostbite"
+        ],
+        "answer": "tension",
+        "source": "CommonsenseQA"
+    },
+    {
+        "question": "What does the sky do before a rain?",
+        "choices": [
+            "appear beautiful",
+            "appear blue",
+            "shows a rainbow",
+            "rain water",
+            "cloud over"
+        ],
+        "answer": "cloud over",
+        "source": "CommonsenseQA"
+    },
+    {
+        "question": "What will you put on a pen to prevent it from drying out?",
+        "choices": [
+            "write sentences on paper",
+            "ink in",
+            "ink cartridges",
+            "caps",
+            "cling film"
+        ],
+        "answer": "caps",
+        "source": "CommonsenseQA"
+    },
+    {
+        "question": "Children's behavior is a direct reflection of their what?",
+        "choices": [
+            "parents",
+            "old people",
+            "play ball",
+            "many adults",
+            "grown ups"
+        ],
+        "answer": "parents",
+        "source": "CommonsenseQA"
+    },
+    {
+        "question": "Where could you find hundreds of beauty salon?",
+        "choices": [
+            "clerk",
+            "mall",
+            "strip mall",
+            "city",
+            "neighborhood"
+        ],
+        "answer": "city",
+        "source": "CommonsenseQA"
+    },
+    {
+        "question": "The electrode wouldn't spark, it turned out that the what hadn't been connected?",
+        "choices": [
+            "battery",
+            "electronic equipment",
+            "electrolytic cell",
+            "charge",
+            "tube"
+        ],
+        "answer": "battery",
+        "source": "CommonsenseQA"
+    },
+    {
+        "question": "What might someone believe in if they are cleaning clothes?",
+        "choices": [
+            "feminism",
+            "sanitation",
+            "ruined",
+            "wrinkles",
+            "buttons to fall off"
+        ],
+        "answer": "sanitation",
+        "source": "CommonsenseQA"
+    },
+    {
+        "question": "Where would you find a toy soldier that is being played with?",
+        "choices": [
+            "toy box",
+            "movies",
+            "child's hand",
+            "toybos",
+            "child park"
+        ],
+        "answer": "child's hand",
+        "source": "CommonsenseQA"
+    },
+    {
+        "question": "What does someone stop doing when being dead?",
+        "choices": [
+            "moving",
+            "working",
+            "breathing",
+            "alive",
+            "deadworks"
+        ],
+        "answer": "breathing",
+        "source": "CommonsenseQA"
+    },
+    {
+        "question": "Pens, computers, text books and paper clips can all be found where?",
+        "choices": [
+            "desktop",
+            "university",
+            "drawer",
+            "table",
+            "work"
+        ],
+        "answer": "university",
+        "source": "CommonsenseQA"
+    },
+    {
+        "question": "What do professors primarily do?",
+        "choices": [
+            "master physics",
+            "state facts",
+            "wear wrinkled tweed jackets",
+            "school students",
+            "teach courses"
+        ],
+        "answer": "teach courses",
+        "source": "CommonsenseQA"
+    },
+    {
+        "question": "What rubber toy filled with helium will make a child happy?",
+        "choices": [
+            "loved",
+            "learn",
+            "eat cake",
+            "balloon",
+            "become adult"
+        ],
+        "answer": "balloon",
+        "source": "CommonsenseQA"
+    },
+    {
+        "question": "What could happen to a cat other than wanting food?",
+        "choices": [
+            "feline",
+            "thirsty",
+            "sharp claws",
+            "pussycat",
+            "hungry"
+        ],
+        "answer": "thirsty",
+        "source": "CommonsenseQA"
+    },
+    {
+        "question": "I am cold, what should I do to stay warm?",
+        "choices": [
+            "stay in bed",
+            "light fire",
+            "freezer",
+            "lay on ice",
+            "spit"
+        ],
+        "answer": "light fire",
+        "source": "CommonsenseQA"
+    },
+    {
+        "question": "What will you do if you do not want to settle in one place?",
+        "choices": [
+            "walk",
+            "agitate",
+            "wander",
+            "remove",
+            "disturb"
+        ],
+        "answer": "wander",
+        "source": "CommonsenseQA"
+    },
+    {
+        "question": "Where are there likely to be a variety of flats to choose from?",
+        "choices": [
+            "london",
+            "apartment building",
+            "city",
+            "falling down",
+            "town"
+        ],
+        "answer": "city",
+        "source": "CommonsenseQA"
+    },
+    {
+        "question": "Why would a person like to have a large house?",
+        "choices": [
+            "have choice",
+            "mentally challenged",
+            "own house",
+            "obesity",
+            "lots of space"
+        ],
+        "answer": "lots of space",
+        "source": "CommonsenseQA"
+    },
+    {
+        "question": "What will a person do at work?",
+        "choices": [
+            "cross street",
+            "draw attention to themselves",
+            "make money",
+            "falling down",
+            "come home"
+        ],
+        "answer": "make money",
+        "source": "CommonsenseQA"
+    },
+    {
+        "question": "They wanted to try blowfish, so they went to get some where?",
+        "choices": [
+            "atlantic ocean",
+            "books",
+            "france",
+            "aquarium",
+            "fish market"
+        ],
+        "answer": "fish market",
+        "source": "CommonsenseQA"
+    },
+    {
+        "question": "The pioneer went to the general store for storage measures, what was he looking for?",
+        "choices": [
+            "checkers",
+            "barrels",
+            "baking soda",
+            "buffalo",
+            "salt"
+        ],
+        "answer": "barrels",
+        "source": "CommonsenseQA"
+    },
+    {
+        "question": "What must a student in engineering do?",
+        "choices": [
+            "answer question",
+            "learn language",
+            "do mathematics",
+            "be able to count",
+            "begin to study"
+        ],
+        "answer": "do mathematics",
+        "source": "CommonsenseQA"
+    },
+    {
+        "question": "Jan tested the current, and noticed that it was high.  He thought that the wires might have too much what?",
+        "choices": [
+            "later",
+            "updated",
+            "still",
+            "resistance",
+            "now"
+        ],
+        "answer": "resistance",
+        "source": "CommonsenseQA"
+    },
+    {
+        "question": "The criminal insisted he must do the crime to the bank teller, but she tried to convince him there were other ways in life and this was what?",
+        "choices": [
+            "willing",
+            "optional",
+            "should not",
+            "have to",
+            "unnecessary"
+        ],
+        "answer": "unnecessary",
+        "source": "CommonsenseQA"
+    },
+    {
+        "question": "Computers have allowed everybody to answer questions they have quickly, but still we seem to be getting duller despite access to this what?",
+        "choices": [
+            "economic boom",
+            "advance knowledge",
+            "produce sound",
+            "teach",
+            "follow instructions"
+        ],
+        "answer": "advance knowledge",
+        "source": "CommonsenseQA"
+    },
+    {
+        "question": "People are what when you're a stranger?",
+        "choices": [
+            "train",
+            "strange",
+            "human",
+            "stupid",
+            "dangerous"
+        ],
+        "answer": "strange",
+        "source": "CommonsenseQA"
+    },
+    {
+        "question": "He wasn't the hugging type, even when he meet friend he'd just do what?",
+        "choices": [
+            "have sex",
+            "smile",
+            "hug each other",
+            "conversation",
+            "handshake"
+        ],
+        "answer": "handshake",
+        "source": "CommonsenseQA"
+    },
+    {
+        "question": "What region of a west coast U.S. city would you find a Japanese restaurant?",
+        "choices": [
+            "california",
+            "tokio",
+            "downtown",
+            "narnia",
+            "large town"
+        ],
+        "answer": "downtown",
+        "source": "CommonsenseQA"
+    },
+    {
+        "question": "The hardcovers were especially tall, so he removed a shelf on the what to make room?",
+        "choices": [
+            "chest of drawers",
+            "grocery store",
+            "hold alcohol",
+            "nightstand",
+            "bookcase"
+        ],
+        "answer": "bookcase",
+        "source": "CommonsenseQA"
+    },
+    {
+        "question": "While walking the student needed to store his writing insturment away, where did he put it?",
+        "choices": [
+            "desk drawer",
+            "cabinet",
+            "purse",
+            "classroom",
+            "pocket"
+        ],
+        "answer": "pocket",
+        "source": "CommonsenseQA"
+    },
+    {
+        "question": "Where do play a game for money?",
+        "choices": [
+            "casino",
+            "football ground",
+            "ballpark",
+            "family room",
+            "toy store"
+        ],
+        "answer": "casino",
+        "source": "CommonsenseQA"
+    },
+    {
+        "question": "Where is a statute found on a platform?",
+        "choices": [
+            "below",
+            "arena",
+            "concert hall",
+            "museum",
+            "building"
+        ],
+        "answer": "museum",
+        "source": "CommonsenseQA"
+    },
+    {
+        "question": "What happens to a dog before someone puts up posters of them?",
+        "choices": [
+            "get lost",
+            "require water",
+            "trained",
+            "bark",
+            "roll over"
+        ],
+        "answer": "get lost",
+        "source": "CommonsenseQA"
+    },
+    {
+        "question": "What is the opposite of a little of something?",
+        "choices": [
+            "much",
+            "plenty",
+            "more",
+            "big",
+            "lot of"
+        ],
+        "answer": "lot of",
+        "source": "CommonsenseQA"
+    },
+    {
+        "question": "The man got a pail to catch the draining motor oil, where was he likely doing this at home?",
+        "choices": [
+            "garage",
+            "hardware store",
+            "utility room",
+            "wishing well",
+            "laundry"
+        ],
+        "answer": "garage",
+        "source": "CommonsenseQA"
+    },
+    {
+        "question": "The man closed his eyes as the music played, what effect did the music have?",
+        "choices": [
+            "coma",
+            "enjoyable",
+            "soothing",
+            "universal",
+            "good or bad"
+        ],
+        "answer": "soothing",
+        "source": "CommonsenseQA"
+    },
+    {
+        "question": "Where would you get jewelry if you do not have any?",
+        "choices": [
+            "vault",
+            "suitcase",
+            "neighbour's house",
+            "department store",
+            "safe deposit box"
+        ],
+        "answer": "department store",
+        "source": "CommonsenseQA"
+    },
+    {
+        "question": "What would you do to a rock when climb up a cliff?",
+        "choices": [
+            "grab",
+            "look down",
+            "throw",
+            "falling",
+            "may fall"
+        ],
+        "answer": "grab",
+        "source": "CommonsenseQA"
+    },
+    {
+        "question": "If you're seeking a connection for your laptop, what are you trying to hook up with?",
+        "choices": [
+            "computer network",
+            "electrical circuit",
+            "lineage",
+            "company",
+            "wall"
+        ],
+        "answer": "computer network",
+        "source": "CommonsenseQA"
+    },
+    {
+        "question": "Where could you find only a few office?",
+        "choices": [
+            "skyscraper",
+            "new york",
+            "school building",
+            "city",
+            "work"
+        ],
+        "answer": "school building",
+        "source": "CommonsenseQA"
+    },
+    {
+        "question": "What is a very unlikely side effect of becoming inebriated?",
+        "choices": [
+            "fights",
+            "drunkenness",
+            "staggering",
+            "puke",
+            "paralysis"
+        ],
+        "answer": "paralysis",
+        "source": "CommonsenseQA"
+    },
+    {
+        "question": "What do you need to do to use television if it is already turned on?",
+        "choices": [
+            "get wet",
+            "open eyes",
+            "kill",
+            "plug in",
+            "first turn on power"
+        ],
+        "answer": "open eyes",
+        "source": "CommonsenseQA"
+    },
+    {
+        "question": "If you spend a long time shopping in uncomfortable shoes, you might develop what?",
+        "choices": [
+            "tiredness",
+            "calluses",
+            "bankruptcy",
+            "standing in line",
+            "sleepyness"
+        ],
+        "answer": "calluses",
+        "source": "CommonsenseQA"
+    },
+    {
+        "question": "If you take the risk buying a used car, you still hope it can what?",
+        "choices": [
+            "go fast",
+            "start running",
+            "going too fast",
+            "look good",
+            "last several years"
+        ],
+        "answer": "last several years",
+        "source": "CommonsenseQA"
+    },
+    {
+        "question": "The man in the white suit was very lazy.  He did nothing useful.  Meanwhile, the ban in the blue had put in effort and was very what?",
+        "choices": [
+            "restless",
+            "active",
+            "lazybutt",
+            "productive",
+            "hard work"
+        ],
+        "answer": "productive",
+        "source": "CommonsenseQA"
+    },
+    {
+        "question": "John got his tax refund back.  He treated it like it was what?",
+        "choices": [
+            "candy",
+            "death and",
+            "free money",
+            "discount",
+            "credit"
+        ],
+        "answer": "free money",
+        "source": "CommonsenseQA"
+    },
+    {
+        "question": "Sarah dropped the marble because she wanted to do what?",
+        "choices": [
+            "game",
+            "pouch",
+            "home",
+            "store",
+            "jar"
+        ],
+        "answer": "game",
+        "source": "CommonsenseQA"
+    },
+    {
+        "question": "The person was in physical distress, where should he go?",
+        "choices": [
+            "synagogue",
+            "for help",
+            "hospital",
+            "bus stop",
+            "building"
+        ],
+        "answer": "hospital",
+        "source": "CommonsenseQA"
+    },
+    {
+        "question": "The runner was in third place, but he pushed harder and thought he might be able to reach second.  What was beginning to do?",
+        "choices": [
+            "near finish line",
+            "finish",
+            "get tired",
+            "gain ground",
+            "trip over"
+        ],
+        "answer": "gain ground",
+        "source": "CommonsenseQA"
+    },
+    {
+        "question": "When getting in shape, this is something that does wonders?",
+        "choices": [
+            "eat more",
+            "starve",
+            "give up",
+            "period of recovery",
+            "jogging"
+        ],
+        "answer": "jogging",
+        "source": "CommonsenseQA"
+    },
+    {
+        "question": "Where is a likely place for an ivy plant?",
+        "choices": [
+            "flower pot",
+            "shelf",
+            "windowsill",
+            "outside",
+            "sill"
+        ],
+        "answer": "outside",
+        "source": "CommonsenseQA"
+    },
+    {
+        "question": "what does a person do to stay healthy?",
+        "choices": [
+            "fever",
+            "eat every day",
+            "excited",
+            "headache",
+            "expressive"
+        ],
+        "answer": "eat every day",
+        "source": "CommonsenseQA"
+    },
+    {
+        "question": "When are people buying products more?",
+        "choices": [
+            "debt",
+            "economic boom",
+            "being able to use",
+            "disagreements",
+            "trading"
+        ],
+        "answer": "economic boom",
+        "source": "CommonsenseQA"
+    },
+    {
+        "question": "What is the process of going somewhere?",
+        "choices": [
+            "fire",
+            "energy",
+            "car",
+            "transporting",
+            "staying in place"
+        ],
+        "answer": "transporting",
+        "source": "CommonsenseQA"
+    },
+    {
+        "question": "Where might someone store a reusable shopping bag?",
+        "choices": [
+            "supermarket",
+            "home",
+            "mart",
+            "obesity",
+            "closet"
+        ],
+        "answer": "closet",
+        "source": "CommonsenseQA"
+    },
+    {
+        "question": "Where could you find a toilet that only friends can use?",
+        "choices": [
+            "rest area",
+            "school",
+            "stadium",
+            "apartment",
+            "hospital"
+        ],
+        "answer": "apartment",
+        "source": "CommonsenseQA"
+    },
+    {
+        "question": "If I have a pet bird, what does it likely live in?",
+        "choices": [
+            "forest",
+            "bathroom",
+            "windowsill",
+            "countryside",
+            "cage"
+        ],
+        "answer": "cage",
+        "source": "CommonsenseQA"
+    },
+    {
+        "question": "What does everyone feel of monsters?",
+        "choices": [
+            "looking for love",
+            "afraid of",
+            "good at",
+            "make pet",
+            "different"
+        ],
+        "answer": "afraid of",
+        "source": "CommonsenseQA"
+    },
+    {
+        "question": "They were kissing each other good bye, they had no worries because their relationship had a strong foundation of what?",
+        "choices": [
+            "partner",
+            "trust",
+            "cooperation",
+            "bricks",
+            "herpes"
+        ],
+        "answer": "trust",
+        "source": "CommonsenseQA"
+    },
+    {
+        "question": "In what kind of environment does an anemone live?",
+        "choices": [
+            "nursery",
+            "south pacific",
+            "desert",
+            "sea water",
+            "atlantic ocean"
+        ],
+        "answer": "sea water",
+        "source": "CommonsenseQA"
+    },
+    {
+        "question": "Where does one store fabric in their own home?",
+        "choices": [
+            "sewing room",
+            "clothing store",
+            "tailor shop",
+            "clothes store",
+            "cotton mill"
+        ],
+        "answer": "sewing room",
+        "source": "CommonsenseQA"
+    },
+    {
+        "question": "Why might a person be known as a liar?",
+        "choices": [
+            "have no home",
+            "false information",
+            "hungry",
+            "made fun of",
+            "brain tumor"
+        ],
+        "answer": "false information",
+        "source": "CommonsenseQA"
+    },
+    {
+        "question": "In what Spanish speaking North American country can you get a great cup of coffee?",
+        "choices": [
+            "mildred's coffee shop",
+            "mexico",
+            "diner",
+            "kitchen",
+            "canteen"
+        ],
+        "answer": "mexico",
+        "source": "CommonsenseQA"
+    },
+    {
+        "question": "What kind of cold storage could you find in your house?",
+        "choices": [
+            "ice pack",
+            "freezer",
+            "laboratory",
+            "warehouse",
+            "refrigerator"
+        ],
+        "answer": "refrigerator",
+        "source": "CommonsenseQA"
+    },
+    {
+        "question": "The tiger was stuck in what animal prison where he got lazy and fat?",
+        "choices": [
+            "jungle",
+            "zoo",
+            "kill",
+            "india",
+            "eat cake"
+        ],
+        "answer": "zoo",
+        "source": "CommonsenseQA"
+    },
+    {
+        "question": "What is a place that is far away from your house and where you could consume beer?",
+        "choices": [
+            "refrigerator",
+            "friend's house",
+            "keg",
+            "neighbor's house",
+            "kitchen"
+        ],
+        "answer": "friend's house",
+        "source": "CommonsenseQA"
+    },
+    {
+        "question": "He wanted to live somewhere were every yard was uniform in size and landscaping, where should he look for a house?",
+        "choices": [
+            "city",
+            "three feet",
+            "subdivision",
+            "parking garage",
+            "michigan"
+        ],
+        "answer": "subdivision",
+        "source": "CommonsenseQA"
+    },
+    {
+        "question": "What do they call the trash in Australia?",
+        "choices": [
+            "dirt",
+            "subway",
+            "state park",
+            "container",
+            "dustbin"
+        ],
+        "answer": "dustbin",
+        "source": "CommonsenseQA"
+    },
+    {
+        "question": "The janitor never had much to clean after services, but there was still always a paper or two to pick up where?",
+        "choices": [
+            "synagogue",
+            "front porch",
+            "classroom",
+            "obesity",
+            "grocery store"
+        ],
+        "answer": "synagogue",
+        "source": "CommonsenseQA"
+    },
+    {
+        "question": "What do you need to wear when hiking?",
+        "choices": [
+            "cast iron stomach",
+            "physical exertion",
+            "shin splints",
+            "adventure",
+            "fatigue"
+        ],
+        "answer": "shin splints",
+        "source": "CommonsenseQA"
+    },
+    {
+        "question": "If you partied all night you could find yourself already what, even when just beginning work?",
+        "choices": [
+            "getting tired",
+            "working",
+            "procrastination",
+            "jumping",
+            "sitting down"
+        ],
+        "answer": "getting tired",
+        "source": "CommonsenseQA"
+    },
+    {
+        "question": "The princess was pure, the evil wizard wished to do what to her?",
+        "choices": [
+            "dirty",
+            "tarnish",
+            "corrupt",
+            "contaminated",
+            "applied"
+        ],
+        "answer": "corrupt",
+        "source": "CommonsenseQA"
+    },
+    {
+        "question": "The child felt like it was all pretend, he didn't understand what?",
+        "choices": [
+            "people believe",
+            "daydreams",
+            "transcendentalism",
+            "laughter",
+            "religion"
+        ],
+        "answer": "religion",
+        "source": "CommonsenseQA"
+    },
+    {
+        "question": "What do people aim to do at work?",
+        "choices": [
+            "complete job",
+            "learn from each other",
+            "kill animals",
+            "wear hats",
+            "talk to each other"
+        ],
+        "answer": "complete job",
+        "source": "CommonsenseQA"
+    },
+    {
+        "question": "I am looking for honey right from the source, where should I look?",
+        "choices": [
+            "last all night",
+            "beehive",
+            "farmer's market",
+            "jar",
+            "honeyful"
+        ],
+        "answer": "beehive",
+        "source": "CommonsenseQA"
+    },
+    {
+        "question": "Where is a salt shaker most often kept?",
+        "choices": [
+            "cruet",
+            "table setting",
+            "kitchen cupboard",
+            "cabinet",
+            "store"
+        ],
+        "answer": "table setting",
+        "source": "CommonsenseQA"
+    },
+    {
+        "question": "Where is a doormat likely to be in front of?",
+        "choices": [
+            "facade",
+            "front door",
+            "doorway",
+            "entrance porch",
+            "hallway"
+        ],
+        "answer": "front door",
+        "source": "CommonsenseQA"
+    },
+    {
+        "question": "The lady would eat and eat, and because of mental issues would then make herself what?",
+        "choices": [
+            "wash dishes",
+            "throwing up",
+            "drinking",
+            "throw up",
+            "turn inside out"
+        ],
+        "answer": "throw up",
+        "source": "CommonsenseQA"
+    },
+    {
+        "question": "I want to see a prepared slide up close, what would I use to help?",
+        "choices": [
+            "microscope",
+            "abbreviate",
+            "glasses",
+            "camera",
+            "telescope"
+        ],
+        "answer": "microscope",
+        "source": "CommonsenseQA"
+    },
+    {
+        "question": "Where is a well used toy car likely to be found?",
+        "choices": [
+            "child's room",
+            "boy's bedroom",
+            "own home",
+            "toy store",
+            "house"
+        ],
+        "answer": "child's room",
+        "source": "CommonsenseQA"
+    },
+    {
+        "question": "Everybody began performing once their director stated what?",
+        "choices": [
+            "fear",
+            "injury",
+            "happiness",
+            "action",
+            "cut"
+        ],
+        "answer": "action",
+        "source": "CommonsenseQA"
+    },
+    {
+        "question": "Who do professors work with?",
+        "choices": [
+            "methods of facts",
+            "teach courses",
+            "wear wrinkled tweed jackets",
+            "school students",
+            "state facts"
+        ],
+        "answer": "school students",
+        "source": "CommonsenseQA"
+    },
+    {
+        "question": "where is seaweed from?",
+        "choices": [
+            "beach",
+            "sea",
+            "ocean",
+            "water",
+            "sea plant"
+        ],
+        "answer": "ocean",
+        "source": "CommonsenseQA"
+    },
+    {
+        "question": "Where do you find the most amount of leafs?",
+        "choices": [
+            "floral arrangement",
+            "ground",
+            "forrest",
+            "field",
+            "compost pile"
+        ],
+        "answer": "forrest",
+        "source": "CommonsenseQA"
+    },
+    {
+        "question": "What could you use to fill a cup and then drink from it?",
+        "choices": [
+            "sand box",
+            "kitchen cabinet",
+            "waterfall",
+            "water fountain",
+            "table"
+        ],
+        "answer": "water fountain",
+        "source": "CommonsenseQA"
+    },
+    {
+        "question": "To play sports professionally you must do what very often?",
+        "choices": [
+            "wash your clothes",
+            "get in shape",
+            "practice",
+            "take off uniform",
+            "stretch"
+        ],
+        "answer": "practice",
+        "source": "CommonsenseQA"
+    },
+    {
+        "question": "Where do apples form on an apple tree?",
+        "choices": [
+            "south africa",
+            "sunshine",
+            "new york",
+            "bloom",
+            "trunk"
+        ],
+        "answer": "bloom",
+        "source": "CommonsenseQA"
+    },
+    {
+        "question": "How can you let someone know about your anger without hurting him or her?",
+        "choices": [
+            "release energy",
+            "destroy enemy",
+            "punch",
+            "write letter",
+            "lose your temper"
+        ],
+        "answer": "write letter",
+        "source": "CommonsenseQA"
+    },
+    {
+        "question": "The child wasn't allowed in the kitchen but still wanted to help, what could it do to help in the dining room?",
+        "choices": [
+            "set table",
+            "form opinions",
+            "make honey",
+            "become adult",
+            "gather flowers"
+        ],
+        "answer": "set table",
+        "source": "CommonsenseQA"
+    },
+    {
+        "question": "The earth is one planet in what?",
+        "choices": [
+            "tree",
+            "orbit",
+            "solar system",
+            "fotograph",
+            "dreams"
+        ],
+        "answer": "solar system",
+        "source": "CommonsenseQA"
+    },
+    {
+        "question": "Bart entered his horse into the contest.  Where did he do this?",
+        "choices": [
+            "circus",
+            "in kentucky",
+            "western movie",
+            "central park",
+            "state fair"
+        ],
+        "answer": "state fair",
+        "source": "CommonsenseQA"
+    },
+    {
+        "question": "What would a person do if they do not have any friends?",
+        "choices": [
+            "talk to people",
+            "try again",
+            "fall asleep",
+            "stand alone",
+            "thank god"
+        ],
+        "answer": "stand alone",
+        "source": "CommonsenseQA"
+    },
+    {
+        "question": "Where would you find people standing in a line outside?",
+        "choices": [
+            "bus depot",
+            "end of line",
+            "opera",
+            "neighbor's house",
+            "meeting"
+        ],
+        "answer": "bus depot",
+        "source": "CommonsenseQA"
+    },
+    {
+        "question": "What probably has a lot of dust in the back?",
+        "choices": [
+            "closet",
+            "door",
+            "corner",
+            "shelf",
+            "library"
+        ],
+        "answer": "closet",
+        "source": "CommonsenseQA"
+    },
+    {
+        "question": "what do you fill with ink to write?",
+        "choices": [
+            "squid",
+            "fountain pen",
+            "pencil case",
+            "newspaper",
+            "printer"
+        ],
+        "answer": "fountain pen",
+        "source": "CommonsenseQA"
+    },
+    {
+        "question": "Many people wanted to leave their country estates for row houses, what did they need to move to?",
+        "choices": [
+            "living less expensively",
+            "england",
+            "prison",
+            "city",
+            "town"
+        ],
+        "answer": "city",
+        "source": "CommonsenseQA"
+    },
+    {
+        "question": "He was trying to procreate with many individuals, this led to a what?",
+        "choices": [
+            "moaning",
+            "die",
+            "kiss",
+            "std",
+            "sanity"
+        ],
+        "answer": "std",
+        "source": "CommonsenseQA"
+    },
+    {
+        "question": "The man working in the attic swatted away a bee, but soon the single bee was an entire what?",
+        "choices": [
+            "swarm",
+            "pack",
+            "countryside",
+            "soft drink",
+            "field of flowers"
+        ],
+        "answer": "swarm",
+        "source": "CommonsenseQA"
+    },
+    {
+        "question": "Before lifting weights he liked to warm up on the squash court, he really enjoyed the facilities of the what?",
+        "choices": [
+            "swimming pool",
+            "rich person's house",
+            "country club",
+            "fitness center",
+            "park"
+        ],
+        "answer": "fitness center",
+        "source": "CommonsenseQA"
+    },
+    {
+        "question": "The merchant wanted to open in a high-traffic space, where did he rent space?",
+        "choices": [
+            "mall",
+            "business",
+            "store",
+            "sale",
+            "sell goods"
+        ],
+        "answer": "mall",
+        "source": "CommonsenseQA"
+    },
+    {
+        "question": "Where do you keep a pail in your house?",
+        "choices": [
+            "garage",
+            "pool",
+            "utility room",
+            "hardware store",
+            "wishing well"
+        ],
+        "answer": "utility room",
+        "source": "CommonsenseQA"
+    },
+    {
+        "question": "What room is a rubber bath mat usually kept?",
+        "choices": [
+            "doorway",
+            "living room",
+            "sand",
+            "floors",
+            "bathroom"
+        ],
+        "answer": "bathroom",
+        "source": "CommonsenseQA"
+    },
+    {
+        "question": "He kept plugging away in his cubicle, it seemed he was the only person not called into the what?",
+        "choices": [
+            "building",
+            "conference",
+            "assessment",
+            "demonstration",
+            "garage"
+        ],
+        "answer": "conference",
+        "source": "CommonsenseQA"
+    },
+    {
+        "question": "A patriotic guy with a camera is looking for a bald eagle, what is he likely to do with the eagle if he finds one?",
+        "choices": [
+            "city",
+            "canada",
+            "minnesota",
+            "thermal",
+            "photograph"
+        ],
+        "answer": "photograph",
+        "source": "CommonsenseQA"
+    },
+    {
+        "question": "The tourist entered Mammoth cave, what state were they in?",
+        "choices": [
+            "west virginia",
+            "kentucky",
+            "rocky hills",
+            "scotland",
+            "canyon"
+        ],
+        "answer": "kentucky",
+        "source": "CommonsenseQA"
+    },
+    {
+        "question": "Where would there be an auditorium with only a single person speaking?",
+        "choices": [
+            "lights",
+            "crowd",
+            "university campus",
+            "theater",
+            "park"
+        ],
+        "answer": "university campus",
+        "source": "CommonsenseQA"
+    },
+    {
+        "question": "Where can you put a picture frame when it's not hung vertically?",
+        "choices": [
+            "art show",
+            "wall",
+            "newspaper",
+            "car",
+            "table"
+        ],
+        "answer": "table",
+        "source": "CommonsenseQA"
+    },
+    {
+        "question": "How could you have fun by yourself with no one around you?",
+        "choices": [
+            "fairgrounds",
+            "watching television",
+            "tired",
+            "enjoyable",
+            "friend's house"
+        ],
+        "answer": "watching television",
+        "source": "CommonsenseQA"
+    },
+    {
+        "question": "The man started to learn jogging, what was he hoping to do?",
+        "choices": [
+            "exhaustion",
+            "getting in shape",
+            "fitness",
+            "injure himself",
+            "fatigue"
+        ],
+        "answer": "getting in shape",
+        "source": "CommonsenseQA"
+    },
+    {
+        "question": "Janet was watching the film because she liked what?",
+        "choices": [
+            "erection",
+            "laughter",
+            "being entertained",
+            "fear",
+            "bordem"
+        ],
+        "answer": "being entertained",
+        "source": "CommonsenseQA"
+    },
+    {
+        "question": "Jenny enjoyed helping people.  It brought her a great deal of what?",
+        "choices": [
+            "satisfaction",
+            "complications",
+            "train",
+            "feel good about yourself",
+            "enjoyment"
+        ],
+        "answer": "satisfaction",
+        "source": "CommonsenseQA"
+    },
+    {
+        "question": "From where do aliens arrive?",
+        "choices": [
+            "outer space",
+            "weekly world news",
+            "roswell",
+            "universe",
+            "mars"
+        ],
+        "answer": "outer space",
+        "source": "CommonsenseQA"
+    },
+    {
+        "question": "What might a kind person do?",
+        "choices": [
+            "cross street",
+            "talk to themselves",
+            "open doors",
+            "throw away",
+            "study greek"
+        ],
+        "answer": "open doors",
+        "source": "CommonsenseQA"
+    },
+    {
+        "question": "Bob's only light source was a small bulb.  There were four walls, if there was a door he couldn't see it.  What was Bob in?",
+        "choices": [
+            "closed room",
+            "sky",
+            "dard",
+            "his grave",
+            "house"
+        ],
+        "answer": "closed room",
+        "source": "CommonsenseQA"
+    },
+    {
+        "question": "What is a place that has a bench nestled in trees?",
+        "choices": [
+            "state park",
+            "bus stop",
+            "bus depot",
+            "statue",
+            "train station"
+        ],
+        "answer": "state park",
+        "source": "CommonsenseQA"
+    },
+    {
+        "question": "John and Judy were parents.  They had two wonderful kids who weren't always well behaved.  They were light tough, though.  They felt it was a parent's job to do what?",
+        "choices": [
+            "control children",
+            "guide children",
+            "speak freely",
+            "cry",
+            "understand children"
+        ],
+        "answer": "guide children",
+        "source": "CommonsenseQA"
+    },
+    {
+        "question": "Where would you find the sharpest parts of a triangle?",
+        "choices": [
+            "three vertices",
+            "point",
+            "3 sides",
+            "three sides",
+            "math book"
+        ],
+        "answer": "three vertices",
+        "source": "CommonsenseQA"
+    },
+    {
+        "question": "Bill wanted to pick up a stranger, preferably a responsible one with kids.  Where might he look for one?",
+        "choices": [
+            "bus station",
+            "paradise",
+            "train station",
+            "park",
+            "sea"
+        ],
+        "answer": "park",
+        "source": "CommonsenseQA"
+    },
+    {
+        "question": "Where is known to be a wealth of information?",
+        "choices": [
+            "park",
+            "internet",
+            "meeting",
+            "library",
+            "book"
+        ],
+        "answer": "library",
+        "source": "CommonsenseQA"
+    },
+    {
+        "question": "What could go to a tennis court?",
+        "choices": [
+            "desert",
+            "college campus",
+            "recreational center",
+            "athletic club",
+            "park"
+        ],
+        "answer": "athletic club",
+        "source": "CommonsenseQA"
+    },
+    {
+        "question": "Sage loved communicating  He liked doing what with his peers?",
+        "choices": [
+            "exchanging ideas",
+            "confusion",
+            "peer pressure",
+            "response",
+            "learning"
+        ],
+        "answer": "exchanging ideas",
+        "source": "CommonsenseQA"
+    },
+    {
+        "question": "What could bring a container from one place to another?",
+        "choices": [
+            "food",
+            "refrigerator",
+            "cargo ship",
+            "port",
+            "fuel"
+        ],
+        "answer": "cargo ship",
+        "source": "CommonsenseQA"
+    },
+    {
+        "question": "What are our bodies doing after having food?",
+        "choices": [
+            "falling down",
+            "digesting",
+            "gas",
+            "weight gain",
+            "not hungry"
+        ],
+        "answer": "digesting",
+        "source": "CommonsenseQA"
+    },
+    {
+        "question": "He came from old money and had a fortune, but he made new money making shrewd trades where?",
+        "choices": [
+            "eat cake",
+            "cookie",
+            "stock market",
+            "real estate",
+            "treasure chest"
+        ],
+        "answer": "stock market",
+        "source": "CommonsenseQA"
+    },
+    {
+        "question": "The water in clouds turn in to what when it gets cold?",
+        "choices": [
+            "typhoon",
+            "snowflake",
+            "laddle",
+            "teardrops",
+            "sink"
+        ],
+        "answer": "snowflake",
+        "source": "CommonsenseQA"
+    },
+    {
+        "question": "Where would you go to get some pamphlets if you want to own them?",
+        "choices": [
+            "bookstore",
+            "drawer",
+            "health department",
+            "mail box",
+            "library"
+        ],
+        "answer": "bookstore",
+        "source": "CommonsenseQA"
+    },
+    {
+        "question": "Joe found spiders in the place where he keeps his tools.  Where might that be?",
+        "choices": [
+            "cupboard",
+            "toolbox",
+            "closet",
+            "garage",
+            "mail box"
+        ],
+        "answer": "garage",
+        "source": "CommonsenseQA"
+    },
+    {
+        "question": "The bell rang, and the congregation began to what in to the church?",
+        "choices": [
+            "run away",
+            "wind instrument",
+            "funnel",
+            "blunderbuss",
+            "associated with telephones"
+        ],
+        "answer": "funnel",
+        "source": "CommonsenseQA"
+    },
+    {
+        "question": "The gimmicky low brow TV show was about animals when they what?",
+        "choices": [
+            "sick",
+            "mammals",
+            "males",
+            "bite",
+            "attack"
+        ],
+        "answer": "attack",
+        "source": "CommonsenseQA"
+    },
+    {
+        "question": "If a person is using a computer to talk to their granddaughter, what might the computer cause for them?",
+        "choices": [
+            "program created",
+            "stress",
+            "happiness",
+            "ocean",
+            "headache"
+        ],
+        "answer": "happiness",
+        "source": "CommonsenseQA"
+    },
+    {
+        "question": "If I wanted to eat something that is made from plants and needs to be washed, what would it be?",
+        "choices": [
+            "roots",
+            "millions of cells",
+            "see work",
+            "leaves to gather light",
+            "flowers on"
+        ],
+        "answer": "roots",
+        "source": "CommonsenseQA"
+    },
+    {
+        "question": "At the new comic store he found himself making friends, it was nice to meet people with what?",
+        "choices": [
+            "smiling",
+            "smile",
+            "open mind",
+            "common interests",
+            "laughter"
+        ],
+        "answer": "common interests",
+        "source": "CommonsenseQA"
+    },
+    {
+        "question": "He was afraid he would die from his cold, so he wisely decided to what?",
+        "choices": [
+            "ocean",
+            "write will",
+            "never want",
+            "were shot",
+            "seek help"
+        ],
+        "answer": "seek help",
+        "source": "CommonsenseQA"
+    },
+    {
+        "question": "What does a person do when they feel dirty?",
+        "choices": [
+            "feel lucky",
+            "cross street",
+            "wash themselves",
+            "eat",
+            "wonder what happened"
+        ],
+        "answer": "wash themselves",
+        "source": "CommonsenseQA"
+    },
+    {
+        "question": "james told his son to settle down and be careful.  There were many frogs mating in the area, and James didn't want his son to do what to them?",
+        "choices": [
+            "wander",
+            "migrate",
+            "scare",
+            "disturb",
+            "agitate"
+        ],
+        "answer": "disturb",
+        "source": "CommonsenseQA"
+    },
+    {
+        "question": "A bald eagle is likely to be found on what kind of work?",
+        "choices": [
+            "rural area",
+            "book",
+            "canada",
+            "painting",
+            "aviary"
+        ],
+        "answer": "painting",
+        "source": "CommonsenseQA"
+    },
+    {
+        "question": "If a person is trying to keep something in their hand what should they do?",
+        "choices": [
+            "complete collection",
+            "own house",
+            "procrastinate",
+            "explode",
+            "have to hold"
+        ],
+        "answer": "have to hold",
+        "source": "CommonsenseQA"
+    },
+    {
+        "question": "John needed a straight wire.  Unfortunately, this one had endured some abuse and had become what?",
+        "choices": [
+            "bent",
+            "bent",
+            "crooked",
+            "straightforth",
+            "curved"
+        ],
+        "answer": "bent",
+        "source": "CommonsenseQA"
+    },
+    {
+        "question": "What very large group of western citizens has bees everywhere?",
+        "choices": [
+            "united states",
+            "space station",
+            "trash can",
+            "field of flowers",
+            "bouquet of flowers"
+        ],
+        "answer": "united states",
+        "source": "CommonsenseQA"
+    },
+    {
+        "question": "What might a very large table be?",
+        "choices": [
+            "dining room",
+            "conference",
+            "kitchen",
+            "in a lake",
+            "demonstration"
+        ],
+        "answer": "conference",
+        "source": "CommonsenseQA"
+    },
+    {
+        "question": "I want to buy a gong, where should I look for one?",
+        "choices": [
+            "orchestra",
+            "church",
+            "chinese temple",
+            "chinatown",
+            "music store"
+        ],
+        "answer": "music store",
+        "source": "CommonsenseQA"
+    },
+    {
+        "question": "What must happen for an animal to and it's offspring to continue livng?",
+        "choices": [
+            "death",
+            "flying",
+            "reproducing",
+            "food consumed",
+            "eventually die"
+        ],
+        "answer": "reproducing",
+        "source": "CommonsenseQA"
+    },
+    {
+        "question": "What is someone doing when scheduling when to go to party?",
+        "choices": [
+            "rumpspringa",
+            "meeting new people",
+            "having fun",
+            "meet new people",
+            "plan"
+        ],
+        "answer": "plan",
+        "source": "CommonsenseQA"
+    },
+    {
+        "question": "What is the likely result of buying products in excess?",
+        "choices": [
+            "running out of money",
+            "spending money",
+            "poverty",
+            "comparison shopping",
+            "overstocking"
+        ],
+        "answer": "overstocking",
+        "source": "CommonsenseQA"
+    },
+    {
+        "question": "His phone was dead and they couldn't find the expressway, he opened up the glove compartment and handed his passenger the what to navigate?",
+        "choices": [
+            "eastern united states",
+            "michigan",
+            "map",
+            "choppers",
+            "american city"
+        ],
+        "answer": "map",
+        "source": "CommonsenseQA"
+    },
+    {
+        "question": "Where do you throw a ball at pins?",
+        "choices": [
+            "bowling alley",
+            "football stadium",
+            "soccer field",
+            "sporting event",
+            "sporting goods store"
+        ],
+        "answer": "bowling alley",
+        "source": "CommonsenseQA"
+    },
+    {
+        "question": "When people are playing a game, what is their motivation to play?",
+        "choices": [
+            "believe in god",
+            "dance",
+            "desire to win",
+            "destroy each other",
+            "run amok"
+        ],
+        "answer": "desire to win",
+        "source": "CommonsenseQA"
+    },
+    {
+        "question": "I couldn't find anybody who recalled the event, what were they adroit at doing?",
+        "choices": [
+            "question authority",
+            "act fool",
+            "wash dishes",
+            "act innocent",
+            "forget"
+        ],
+        "answer": "forget",
+        "source": "CommonsenseQA"
+    },
+    {
+        "question": "Where would a corpse be covered by a blanket?",
+        "choices": [
+            "bath store",
+            "bedroom",
+            "hospital",
+            "flower garden",
+            "michigan"
+        ],
+        "answer": "hospital",
+        "source": "CommonsenseQA"
+    },
+    {
+        "question": "All the power tools like the drill used for fixing cars made for a very loud workplace where?",
+        "choices": [
+            "basement",
+            "work shop",
+            "tool shed",
+            "repair shop",
+            "store room"
+        ],
+        "answer": "repair shop",
+        "source": "CommonsenseQA"
+    },
+    {
+        "question": "Where would stones not be arranged in a path?",
+        "choices": [
+            "quarries",
+            "field",
+            "park",
+            "bridge",
+            "made from rocks"
+        ],
+        "answer": "field",
+        "source": "CommonsenseQA"
+    },
+    {
+        "question": "Seafood restaurants are used to draw tourists where?",
+        "choices": [
+            "maine",
+            "shoe shop",
+            "city",
+            "boston",
+            "coastal cities"
+        ],
+        "answer": "coastal cities",
+        "source": "CommonsenseQA"
+    },
+    {
+        "question": "If a car-less person want to listen to talk radio in private, where might they listen to it?",
+        "choices": [
+            "trunk",
+            "bedroom",
+            "diner",
+            "space shuttle",
+            "shop"
+        ],
+        "answer": "bedroom",
+        "source": "CommonsenseQA"
+    },
+    {
+        "question": "If you are prone to postpone work what will you have to do in order to finish on time?",
+        "choices": [
+            "eat",
+            "hasten",
+            "antedate",
+            "bring forward",
+            "advance"
+        ],
+        "answer": "hasten",
+        "source": "CommonsenseQA"
+    },
+    {
+        "question": "What do people want to acquire from opening business?",
+        "choices": [
+            "home",
+            "wealth",
+            "bankruptcy",
+            "lose money",
+            "get rich"
+        ],
+        "answer": "wealth",
+        "source": "CommonsenseQA"
+    },
+    {
+        "question": "What does everyone have in relation to other people?",
+        "choices": [
+            "feelings",
+            "food",
+            "unique personality",
+            "different standards",
+            "values"
+        ],
+        "answer": "feelings",
+        "source": "CommonsenseQA"
+    },
+    {
+        "question": "The detective was finding information from witnesses, why would he do that?",
+        "choices": [
+            "fun",
+            "ulcers",
+            "get answers",
+            "happiness",
+            "power"
+        ],
+        "answer": "get answers",
+        "source": "CommonsenseQA"
+    },
+    {
+        "question": "Where would using a boat not require navigation skills?",
+        "choices": [
+            "water",
+            "ocean",
+            "garage",
+            "harbor",
+            "river"
+        ],
+        "answer": "river",
+        "source": "CommonsenseQA"
+    },
+    {
+        "question": "Where would you put a net if you wanted to use it?",
+        "choices": [
+            "sports",
+            "fishing gear",
+            "soccer game",
+            "fishing boat",
+            "badminton"
+        ],
+        "answer": "fishing boat",
+        "source": "CommonsenseQA"
+    },
+    {
+        "question": "He picked up his pace to a run, he wanted to do what?",
+        "choices": [
+            "learn to walk",
+            "frightened",
+            "get away from",
+            "exercise",
+            "go faster"
+        ],
+        "answer": "go faster",
+        "source": "CommonsenseQA"
+    },
+    {
+        "question": "James saw a kite flying in the sky.  He traced the string back to its origin and found it.  Where did the string begin?",
+        "choices": [
+            "end of line",
+            "hobby shop",
+            "his hand",
+            "toy store",
+            "child's hand"
+        ],
+        "answer": "child's hand",
+        "source": "CommonsenseQA"
+    },
+    {
+        "question": "James was looking for a good place to buy farmland.  Where might he look?",
+        "choices": [
+            "midwest",
+            "countryside",
+            "estate",
+            "farming areas",
+            "illinois"
+        ],
+        "answer": "midwest",
+        "source": "CommonsenseQA"
+    },
+    {
+        "question": "What do singers need to do before a show?",
+        "choices": [
+            "warm up",
+            "use microphones",
+            "clear throats",
+            "create music",
+            "sound beautiful"
+        ],
+        "answer": "warm up",
+        "source": "CommonsenseQA"
+    },
+    {
+        "question": "If it's not used for hair a round brush is an example of what?",
+        "choices": [
+            "hair brush",
+            "ladies bathroom",
+            "art supplies",
+            "shower",
+            "hair salon"
+        ],
+        "answer": "art supplies",
+        "source": "CommonsenseQA"
+    },
+    {
+        "question": "The man was giving assistance to a pan handler in the streets, how did he give assistance?",
+        "choices": [
+            "feeling good",
+            "killing",
+            "law suits",
+            "out of pocket",
+            "feel loved"
+        ],
+        "answer": "out of pocket",
+        "source": "CommonsenseQA"
+    },
+    {
+        "question": "Her son scraped his knee, she fetched a bottle of peroxide from the what?",
+        "choices": [
+            "supermarket",
+            "diaper bag",
+            "liquor store",
+            "hollow log",
+            "medicine cabinet"
+        ],
+        "answer": "medicine cabinet",
+        "source": "CommonsenseQA"
+    },
+    {
+        "question": "Marathoners feel fatigued after running twenty six miles, but some that have pushed them self too hard might be prone to what?",
+        "choices": [
+            "excruciating pain",
+            "passing out",
+            "death",
+            "drunk",
+            "exhaustion"
+        ],
+        "answer": "passing out",
+        "source": "CommonsenseQA"
+    },
+    {
+        "question": "The two played video games all night in the living room, he enjoyed visiting where?",
+        "choices": [
+            "formal seating",
+            "friend's house",
+            "movies",
+            "home",
+            "apartment"
+        ],
+        "answer": "friend's house",
+        "source": "CommonsenseQA"
+    },
+    {
+        "question": "WHat leads to an early death?",
+        "choices": [
+            "poisonous gas",
+            "homicide",
+            "cinder",
+            "nuclear weapons",
+            "cyanide"
+        ],
+        "answer": "homicide",
+        "source": "CommonsenseQA"
+    },
+    {
+        "question": "WHat type of keyboard is made up of one or more pipe divisions?",
+        "choices": [
+            "killing",
+            "typewriter",
+            "office",
+            "terminal",
+            "organ"
+        ],
+        "answer": "organ",
+        "source": "CommonsenseQA"
+    },
+    {
+        "question": "What happens someone who is bad play poker?",
+        "choices": [
+            "think",
+            "ante up",
+            "drink",
+            "win money",
+            "losing money"
+        ],
+        "answer": "losing money",
+        "source": "CommonsenseQA"
+    },
+    {
+        "question": "If somebody is working at a reception desk, they are located at the front entrance of the what?",
+        "choices": [
+            "motel",
+            "hostel",
+            "building",
+            "lobby",
+            "office park"
+        ],
+        "answer": "building",
+        "source": "CommonsenseQA"
+    },
+    {
+        "question": "Colorful anemone look somewhat like what object you find on window sills?",
+        "choices": [
+            "intertidal zone",
+            "coral sea",
+            "under water",
+            "flower bed",
+            "florida keys"
+        ],
+        "answer": "flower bed",
+        "source": "CommonsenseQA"
+    },
+    {
+        "question": "David watched some nesting birds using his binoculars while on vacation.  Where might David be?.",
+        "choices": [
+            "sky",
+            "vaccation",
+            "forest",
+            "countryside",
+            "roof"
+        ],
+        "answer": "forest",
+        "source": "CommonsenseQA"
+    },
+    {
+        "question": "If you own a cat where is the last place you'd want to find it?",
+        "choices": [
+            "trouble",
+            "dog's mouth",
+            "backyard",
+            "nature",
+            "home"
+        ],
+        "answer": "dog's mouth",
+        "source": "CommonsenseQA"
+    },
+    {
+        "question": "The advertisement came in the form of a pop-up, where did it appear?",
+        "choices": [
+            "web page",
+            "store",
+            "la ville",
+            "bus",
+            "email"
+        ],
+        "answer": "web page",
+        "source": "CommonsenseQA"
+    },
+    {
+        "question": "James noticed that his penis was bigger. .  How might he act toward his plastic surgeon?",
+        "choices": [
+            "accidental",
+            "detestable",
+            "effusive",
+            "enabled",
+            "apathetic"
+        ],
+        "answer": "effusive",
+        "source": "CommonsenseQA"
+    },
+    {
+        "question": "While washing clothes they became what when caught on the sharp object?",
+        "choices": [
+            "damaged",
+            "wet clothes",
+            "wear out",
+            "torn",
+            "have fun"
+        ],
+        "answer": "torn",
+        "source": "CommonsenseQA"
+    },
+    {
+        "question": "His compressor needed a new hose, where did he go?",
+        "choices": [
+            "garden shed",
+            "hardware store",
+            "brothel",
+            "garage",
+            "greenhouse"
+        ],
+        "answer": "hardware store",
+        "source": "CommonsenseQA"
+    },
+    {
+        "question": "James was below the balloon.  He watched it rise.  What direction did he look in?",
+        "choices": [
+            "upstairs",
+            "aloft",
+            "diagonal",
+            "upstream",
+            "upwards"
+        ],
+        "answer": "upwards",
+        "source": "CommonsenseQA"
+    },
+    {
+        "question": "Where might an alien use a vacuum?",
+        "choices": [
+            "space",
+            "closet",
+            "kitchen",
+            "orbit",
+            "container"
+        ],
+        "answer": "space",
+        "source": "CommonsenseQA"
+    },
+    {
+        "question": "Where is a lake likely to be glacial?",
+        "choices": [
+            "michigan",
+            "new york",
+            "new york",
+            "mountains",
+            "countryside"
+        ],
+        "answer": "mountains",
+        "source": "CommonsenseQA"
+    },
+    {
+        "question": "When someone is talking and you missed something, what can you do to get them to repeat it?",
+        "choices": [
+            "walking",
+            "ask question",
+            "think",
+            "write question in crayon",
+            "sneeze"
+        ],
+        "answer": "ask question",
+        "source": "CommonsenseQA"
+    },
+    {
+        "question": "John and James are idiots. They bought two tickets to the Falcons vs the Jets even though neither wanted to see the what?",
+        "choices": [
+            "internet cafe",
+            "sporting event",
+            "pressing wrong buttons",
+            "obesity",
+            "hockey game"
+        ],
+        "answer": "sporting event",
+        "source": "CommonsenseQA"
+    },
+    {
+        "question": "The flasks was used to distill elements, where was is being used?",
+        "choices": [
+            "laboratory",
+            "chemistry lab",
+            "coat pocket",
+            "after hours speakeasy",
+            "bordello"
+        ],
+        "answer": "chemistry lab",
+        "source": "CommonsenseQA"
+    },
+    {
+        "question": "John didn't care about style.  He felt that form was less important than what?",
+        "choices": [
+            "shapeless",
+            "quality",
+            "function",
+            "change shape",
+            "chaos"
+        ],
+        "answer": "function",
+        "source": "CommonsenseQA"
+    },
+    {
+        "question": "Animals who have hair and don't lay eggs are what?",
+        "choices": [
+            "reproduce asexually",
+            "males",
+            "mammals",
+            "attack",
+            "ocean"
+        ],
+        "answer": "mammals",
+        "source": "CommonsenseQA"
+    },
+    {
+        "question": "With the card slot lit up he knew how to get started finding his balance with what?",
+        "choices": [
+            "slot machine",
+            "ticket machine",
+            "bank machine",
+            "telephone",
+            "automated teller"
+        ],
+        "answer": "automated teller",
+        "source": "CommonsenseQA"
+    },
+    {
+        "question": "James thought of criminal justice like a computer program.  It need to work right.   What ideas might James not like?",
+        "choices": [
+            "manual",
+            "process information",
+            "power down",
+            "control model",
+            "reason exists"
+        ],
+        "answer": "control model",
+        "source": "CommonsenseQA"
+    },
+    {
+        "question": "What do you do when you need to get food?",
+        "choices": [
+            "table",
+            "disneyland",
+            "refrigerators",
+            "pantry",
+            "shop"
+        ],
+        "answer": "shop",
+        "source": "CommonsenseQA"
+    },
+    {
+        "question": "What does someone do to relax at night?",
+        "choices": [
+            "find time",
+            "check mail",
+            "listen to music",
+            "go to bed",
+            "stop worrying"
+        ],
+        "answer": "go to bed",
+        "source": "CommonsenseQA"
+    },
+    {
+        "question": "People do many things to alleviate boredom.  If you can't get out of the house you might decide to do what?",
+        "choices": [
+            "play cards",
+            "skateboard",
+            "meet interesting people",
+            "listen to music",
+            "go to a concert"
+        ],
+        "answer": "listen to music",
+        "source": "CommonsenseQA"
+    },
+    {
+        "question": "James decided that competing was the right choice.   Not competing has a defined outcome, but if he competes then what could happen?",
+        "choices": [
+            "might win",
+            "perform better",
+            "enemies",
+            "winners and losers",
+            "lose"
+        ],
+        "answer": "might win",
+        "source": "CommonsenseQA"
+    },
+    {
+        "question": "Where is the control room that controls a PWR located?",
+        "choices": [
+            "building",
+            "factory",
+            "window",
+            "prison",
+            "nuclear power plant"
+        ],
+        "answer": "nuclear power plant",
+        "source": "CommonsenseQA"
+    },
+    {
+        "question": "Jesse  enjoyed remembering the past because he helped him understand it.  And understanding the past helped him with doing what?",
+        "choices": [
+            "phoning",
+            "nostalgia",
+            "writing down",
+            "active",
+            "being prepared"
+        ],
+        "answer": "being prepared",
+        "source": "CommonsenseQA"
+    },
+    {
+        "question": "A crane uses many a steel cable when working a what?",
+        "choices": [
+            "abaft",
+            "ship",
+            "winch",
+            "construction site",
+            "building"
+        ],
+        "answer": "construction site",
+        "source": "CommonsenseQA"
+    },
+    {
+        "question": "Bill puts meat on the scale, where does Bill work?",
+        "choices": [
+            "music store",
+            "assay office",
+            "tidal wave",
+            "butcher shop",
+            "bathroom"
+        ],
+        "answer": "butcher shop",
+        "source": "CommonsenseQA"
+    },
+    {
+        "question": "What do geese do every fall in fields?",
+        "choices": [
+            "guard house",
+            "fly",
+            "eat",
+            "follow ultralight airplane",
+            "group together"
+        ],
+        "answer": "group together",
+        "source": "CommonsenseQA"
+    },
+    {
+        "question": "When cooking sheep meat a lot of people might want to be well?",
+        "choices": [
+            "ram",
+            "lamb",
+            "done",
+            "ram",
+            "wolf"
+        ],
+        "answer": "done",
+        "source": "CommonsenseQA"
+    },
+    {
+        "question": "What is the purpose of playing games for children?",
+        "choices": [
+            "winning",
+            "learning",
+            "losing",
+            "fatigue",
+            "skill"
+        ],
+        "answer": "learning",
+        "source": "CommonsenseQA"
+    },
+    {
+        "question": "When a main artery is used to expedite travel what would it be referred to as?",
+        "choices": [
+            "neck",
+            "busy city",
+            "own brain",
+            "thruway",
+            "food"
+        ],
+        "answer": "thruway",
+        "source": "CommonsenseQA"
+    },
+    {
+        "question": "The church was giving assistance, what were they hoping to accomplish?",
+        "choices": [
+            "exhilliration",
+            "hardship",
+            "risk taking",
+            "helping others",
+            "happiness"
+        ],
+        "answer": "helping others",
+        "source": "CommonsenseQA"
+    },
+    {
+        "question": "Where is food likely to stay dry?",
+        "choices": [
+            "etna",
+            "cupboard",
+            "oven",
+            "stomach",
+            "fridge"
+        ],
+        "answer": "cupboard",
+        "source": "CommonsenseQA"
+    },
+    {
+        "question": "WHere do people live?",
+        "choices": [
+            "apartment",
+            "eat cake",
+            "bus depot",
+            "football stadium",
+            "surface of earth"
+        ],
+        "answer": "surface of earth",
+        "source": "CommonsenseQA"
+    },
+    {
+        "question": "Where might a lemur frolic in the market?",
+        "choices": [
+            "desert",
+            "hole",
+            "india",
+            "cage",
+            "rain forest"
+        ],
+        "answer": "india",
+        "source": "CommonsenseQA"
+    },
+    {
+        "question": "One of the potential hazards of attending school is what?",
+        "choices": [
+            "cooties",
+            "get smart",
+            "boredom",
+            "colds and flu",
+            "taking tests"
+        ],
+        "answer": "colds and flu",
+        "source": "CommonsenseQA"
+    },
+    {
+        "question": "Where are you likely to find much more than a drop of blood on the floor?",
+        "choices": [
+            "crime scene",
+            "vein",
+            "blood bank",
+            "slaughter house",
+            "needle"
+        ],
+        "answer": "slaughter house",
+        "source": "CommonsenseQA"
+    },
+    {
+        "question": "What uses a ribbon to put words on paper?",
+        "choices": [
+            "wrapping paper",
+            "girl's hair",
+            "bath",
+            "floral arrangement",
+            "typewriter"
+        ],
+        "answer": "typewriter",
+        "source": "CommonsenseQA"
+    },
+    {
+        "question": "In order to learn to program from another person you can do what?",
+        "choices": [
+            "learn how to",
+            "have a friend",
+            "knowledge",
+            "take class",
+            "have computer"
+        ],
+        "answer": "take class",
+        "source": "CommonsenseQA"
+    },
+    {
+        "question": "Where do adults use glue sticks?",
+        "choices": [
+            "classroom",
+            "desk drawer",
+            "at school",
+            "office",
+            "kitchen drawer"
+        ],
+        "answer": "office",
+        "source": "CommonsenseQA"
+    },
+    {
+        "question": "If I was watching TV on the couch and the air was stuffy, I might turn the fan on to make the what more comfortable?",
+        "choices": [
+            "hockey game",
+            "living room",
+            "bathroom",
+            "football stadium",
+            "hot room"
+        ],
+        "answer": "living room",
+        "source": "CommonsenseQA"
+    },
+    {
+        "question": "No matter what date you put on it, we all know the universe to be what?",
+        "choices": [
+            "very old",
+            "infiniverse",
+            "getting younger",
+            "infinite",
+            "real"
+        ],
+        "answer": "very old",
+        "source": "CommonsenseQA"
+    },
+    {
+        "question": "The inspector was agreeing with the factory protocols, what was the status of the factory?",
+        "choices": [
+            "compliance",
+            "eligible",
+            "contract",
+            "harmony",
+            "friendship"
+        ],
+        "answer": "compliance",
+        "source": "CommonsenseQA"
+    },
+    {
+        "question": "What part of plants is pretty?",
+        "choices": [
+            "dirt",
+            "no neurons in",
+            "millions of cells",
+            "flowers on",
+            "roots"
+        ],
+        "answer": "flowers on",
+        "source": "CommonsenseQA"
+    },
+    {
+        "question": "What does \tdrinking alcohol lead to?",
+        "choices": [
+            "have fun",
+            "intoxication",
+            "vomiting",
+            "drinking more alcohol",
+            "nausea"
+        ],
+        "answer": "intoxication",
+        "source": "CommonsenseQA"
+    },
+    {
+        "question": "If you were lost you might need a map, the best place to find one on the road is at any what?",
+        "choices": [
+            "truck stop",
+            "amusement park",
+            "atlas",
+            "mall",
+            "gas station"
+        ],
+        "answer": "gas station",
+        "source": "CommonsenseQA"
+    },
+    {
+        "question": "Loss of someone you love can cause what kind of feeling in your heart?",
+        "choices": [
+            "painful",
+            "happy",
+            "blind",
+            "contagious",
+            "bring joy"
+        ],
+        "answer": "painful",
+        "source": "CommonsenseQA"
+    },
+    {
+        "question": "The old style pop ups literally let you see the story when you did what?",
+        "choices": [
+            "giggle",
+            "visualize",
+            "open book",
+            "reading",
+            "go to movies"
+        ],
+        "answer": "open book",
+        "source": "CommonsenseQA"
+    },
+    {
+        "question": "Where is seaweed usually found alive?",
+        "choices": [
+            "ocean",
+            "found in ocean",
+            "water",
+            "found in sea",
+            "beach"
+        ],
+        "answer": "water",
+        "source": "CommonsenseQA"
+    },
+    {
+        "question": "Everybody seemed to be crying at the holy site, the tour guide explained that this was what?",
+        "choices": [
+            "profane",
+            "halibut",
+            "damaged",
+            "common",
+            "halibut"
+        ],
+        "answer": "common",
+        "source": "CommonsenseQA"
+    },
+    {
+        "question": "I house outside the center of a community is said to be where?",
+        "choices": [
+            "city",
+            "subdivision",
+            "newspaper",
+            "residential area",
+            "street"
+        ],
+        "answer": "subdivision",
+        "source": "CommonsenseQA"
+    },
+    {
+        "question": "They were searching for rocks, so they missed the birds overhead as they stared at the what?",
+        "choices": [
+            "ground",
+            "drawer",
+            "surface of earth",
+            "pizza",
+            "waterfall"
+        ],
+        "answer": "ground",
+        "source": "CommonsenseQA"
+    },
+    {
+        "question": "What do you do when you're going to market?",
+        "choices": [
+            "buy food",
+            "see other people",
+            "buying vegetables",
+            "buy a fat pig",
+            "traveling"
+        ],
+        "answer": "buy food",
+        "source": "CommonsenseQA"
+    },
+    {
+        "question": "If you want to learn about the world and understand the real reasons behind cultural norms and mores, you have achieved a sense of what?",
+        "choices": [
+            "enlightenment",
+            "open mind",
+            "confusion",
+            "smartness",
+            "anger"
+        ],
+        "answer": "enlightenment",
+        "source": "CommonsenseQA"
+    },
+    {
+        "question": "When drinking booze what can you do to stay busy?",
+        "choices": [
+            "reach tentative agreement",
+            "stay in bed",
+            "stop bicycle",
+            "examine thing",
+            "suicide"
+        ],
+        "answer": "examine thing",
+        "source": "CommonsenseQA"
+    },
+    {
+        "question": "The potato might be the official vegetable of what?",
+        "choices": [
+            "vegans",
+            "kitchen cupboard",
+            "restaurants",
+            "chicken",
+            "maryland"
+        ],
+        "answer": "maryland",
+        "source": "CommonsenseQA"
+    },
+    {
+        "question": "Danny found an old film in a sealed what?",
+        "choices": [
+            "clingfilm",
+            "disneyland",
+            "cave",
+            "cabinet",
+            "movie"
+        ],
+        "answer": "cabinet",
+        "source": "CommonsenseQA"
+    },
+    {
+        "question": "When is the worst time for having food?",
+        "choices": [
+            "digesting",
+            "not hungry",
+            "gas",
+            "weight gain",
+            "feeling of fullness"
+        ],
+        "answer": "not hungry",
+        "source": "CommonsenseQA"
+    },
+    {
+        "question": "Dad wanted to hide the check in his office, where did he put it?",
+        "choices": [
+            "cash register",
+            "desk drawer",
+            "fish tank",
+            "bank",
+            "pay envelope"
+        ],
+        "answer": "desk drawer",
+        "source": "CommonsenseQA"
+    },
+    {
+        "question": "What makes someone a nomad?",
+        "choices": [
+            "unpleasant things",
+            "hangnail",
+            "have no home",
+            "have no car",
+            "schizophrenia"
+        ],
+        "answer": "have no home",
+        "source": "CommonsenseQA"
+    },
+    {
+        "question": "Writers with a great what can amass a large fortune?",
+        "choices": [
+            "cookie",
+            "bank",
+            "real estate",
+            "imagination",
+            "bank roll"
+        ],
+        "answer": "imagination",
+        "source": "CommonsenseQA"
+    },
+    {
+        "question": "A potato is kept in the cellar, where is likely to be stored?",
+        "choices": [
+            "farmer's market",
+            "grocery bag",
+            "pantry",
+            "bushel basket",
+            "fridge"
+        ],
+        "answer": "bushel basket",
+        "source": "CommonsenseQA"
+    },
+    {
+        "question": "Where would you hear a violin along side many string and wind instruments?",
+        "choices": [
+            "school",
+            "string quartet",
+            "orchestra",
+            "kitchen",
+            "music room"
+        ],
+        "answer": "orchestra",
+        "source": "CommonsenseQA"
+    },
+    {
+        "question": "If someone found out their brother was having a daughter, they would have to add a niece limb to the what?",
+        "choices": [
+            "family picture book",
+            "family reunion",
+            "brother's house",
+            "family tree",
+            "baby shower"
+        ],
+        "answer": "family tree",
+        "source": "CommonsenseQA"
+    },
+    {
+        "question": "Where is likely to not just have a kosher restaurant?",
+        "choices": [
+            "jerusalem",
+            "jewish neighborhoods",
+            "dining in",
+            "new york city",
+            "dining"
+        ],
+        "answer": "new york city",
+        "source": "CommonsenseQA"
+    },
+    {
+        "question": "The coach decided to make a lineup change, the team's effort was suffering from what?",
+        "choices": [
+            "stagnant",
+            "stagnation",
+            "tradition",
+            "hunger",
+            "paper money"
+        ],
+        "answer": "stagnation",
+        "source": "CommonsenseQA"
+    },
+    {
+        "question": "Where could you go to between 1000 and 10000 restaurant?",
+        "choices": [
+            "big city",
+            "town",
+            "small town",
+            "canada",
+            "yellow pages"
+        ],
+        "answer": "big city",
+        "source": "CommonsenseQA"
+    },
+    {
+        "question": "Where is a likely place to store unused soap?",
+        "choices": [
+            "cabinet",
+            "supermarket",
+            "jail",
+            "butt",
+            "own home"
+        ],
+        "answer": "cabinet",
+        "source": "CommonsenseQA"
+    },
+    {
+        "question": "James's nice asked him about her grandfather. She was interested in learning about what?",
+        "choices": [
+            "family tree",
+            "family reunion",
+            "babysitting",
+            "brother's house",
+            "heirlooms"
+        ],
+        "answer": "family tree",
+        "source": "CommonsenseQA"
+    },
+    {
+        "question": "Joe plays a percussion instrument in something.  What might be play in?",
+        "choices": [
+            "own home",
+            "music store",
+            "marching band",
+            "orchestra",
+            "party"
+        ],
+        "answer": "orchestra",
+        "source": "CommonsenseQA"
+    },
+    {
+        "question": "You'll find a landing at the top of what?",
+        "choices": [
+            "ocean",
+            "apartment building",
+            "stairwell",
+            "airport",
+            "room"
+        ],
+        "answer": "stairwell",
+        "source": "CommonsenseQA"
+    },
+    {
+        "question": "What do animals do when an enemy is approaching?",
+        "choices": [
+            "feel pleasure",
+            "procreate",
+            "pass water",
+            "listen to each other",
+            "sing"
+        ],
+        "answer": "listen to each other",
+        "source": "CommonsenseQA"
+    },
+    {
+        "question": "What is used to grind wheat for bread?",
+        "choices": [
+            "farmer's field",
+            "countryside",
+            "cereal packets",
+            "bread",
+            "mill"
+        ],
+        "answer": "mill",
+        "source": "CommonsenseQA"
+    },
+    {
+        "question": "What will god never do according to religion?",
+        "choices": [
+            "anything",
+            "judge people",
+            "work miracles",
+            "judge men",
+            "everywhere"
+        ],
+        "answer": "judge people",
+        "source": "CommonsenseQA"
+    },
+    {
+        "question": "What can eating hamburger cause immediately after eating it?",
+        "choices": [
+            "tasty",
+            "health problems",
+            "eat cake",
+            "indigestion",
+            "gain weight"
+        ],
+        "answer": "indigestion",
+        "source": "CommonsenseQA"
+    },
+    {
+        "question": "What is a person looking for when completing puzzles or riddles?",
+        "choices": [
+            "avoid pain",
+            "compliments",
+            "intellectual challenge",
+            "passing grade",
+            "attention"
+        ],
+        "answer": "intellectual challenge",
+        "source": "CommonsenseQA"
+    },
+    {
+        "question": "A farmer sees a weasel in the woods, where is the farmer?",
+        "choices": [
+            "chicken coop",
+            "beach",
+            "fairytale",
+            "great outdoors",
+            "corn fields"
+        ],
+        "answer": "great outdoors",
+        "source": "CommonsenseQA"
+    }
+]

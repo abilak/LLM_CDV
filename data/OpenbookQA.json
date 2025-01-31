@@ -1,0 +1,3302 @@
+[
+    {
+        "question": "What causes rock layers to fold on top of each other?",
+        "choices": [
+            "construction",
+            "Violent tremors",
+            "earthworms",
+            "tornados"
+        ],
+        "answer": "Violent tremors",
+        "source": "OpenbookQA"
+    },
+    {
+        "question": "What contributes more, though less than some believe, to the lung damage caused by smoking?",
+        "choices": [
+            "smoking less",
+            "switching to chewing",
+            "no filters",
+            "switching to e-cigs"
+        ],
+        "answer": "no filters",
+        "source": "OpenbookQA"
+    },
+    {
+        "question": "What might I be doing during the day cycle on earth?",
+        "choices": [
+            "using magic",
+            "having a picnic",
+            "time traveling",
+            "driving flying cars"
+        ],
+        "answer": "having a picnic",
+        "source": "OpenbookQA"
+    },
+    {
+        "question": "Where would the environment be driest?",
+        "choices": [
+            "the arctic tundra",
+            "the Gobi Desert",
+            "the Salton Sea",
+            "the rain forest"
+        ],
+        "answer": "the Gobi Desert",
+        "source": "OpenbookQA"
+    },
+    {
+        "question": "Fog is formed by water vapor condensing in what?",
+        "choices": [
+            "plants",
+            "air heads",
+            "empty space",
+            "animals"
+        ],
+        "answer": "empty space",
+        "source": "OpenbookQA"
+    },
+    {
+        "question": "What would burn more quickly?",
+        "choices": [
+            "wet log",
+            "green leaves",
+            "soggy tree trunk",
+            "sun dried branches"
+        ],
+        "answer": "sun dried branches",
+        "source": "OpenbookQA"
+    },
+    {
+        "question": "How many odorant receptors do honey bees have?",
+        "choices": [
+            "4",
+            "270",
+            "170",
+            "70"
+        ],
+        "answer": "170",
+        "source": "OpenbookQA"
+    },
+    {
+        "question": "A planet that revolves around a star is exposed to what?",
+        "choices": [
+            "mountains",
+            "oceans",
+            "solar rays",
+            "moons"
+        ],
+        "answer": "solar rays",
+        "source": "OpenbookQA"
+    },
+    {
+        "question": "what does lighting it cause a candle?",
+        "choices": [
+            "it stays same",
+            "none of these",
+            "it gets shorter",
+            "it gets taller"
+        ],
+        "answer": "it gets shorter",
+        "source": "OpenbookQA"
+    },
+    {
+        "question": "Ice wedging is caused by cycles of freezing and thawing of what?",
+        "choices": [
+            "h2o",
+            "plants",
+            "winds",
+            "animals"
+        ],
+        "answer": "h2o",
+        "source": "OpenbookQA"
+    },
+    {
+        "question": "Disposition is the process of forming what?",
+        "choices": [
+            "Crystals",
+            "Rocks",
+            "Salactites",
+            "Gemstones"
+        ],
+        "answer": "Salactites",
+        "source": "OpenbookQA"
+    },
+    {
+        "question": "Where would the amount of water decrease most?",
+        "choices": [
+            "under clear skies",
+            "in the clouds",
+            "during a storm",
+            "indoors"
+        ],
+        "answer": "under clear skies",
+        "source": "OpenbookQA"
+    },
+    {
+        "question": "How can things that are very tall have things lifted up them?",
+        "choices": [
+            "a kite is flown with a string attached",
+            "a string that loops from top to bottom",
+            "flats are flown to the top of poles",
+            "a flagpole is leaned down to get a flag on it"
+        ],
+        "answer": "a string that loops from top to bottom",
+        "source": "OpenbookQA"
+    },
+    {
+        "question": "Why might wolves a new area where a lot of deer live?",
+        "choices": [
+            "The wolves eat the same things that the deer eat",
+            "They wanted to be friends with the deer.",
+            "The wolves stay near the deer for protection",
+            "The wolves use the deer for nutrition"
+        ],
+        "answer": "The wolves use the deer for nutrition",
+        "source": "OpenbookQA"
+    },
+    {
+        "question": "F field mouse touched a special type of fence made for cattle and was killed instantly. The fence had a source of power. What happened?",
+        "choices": [
+            "The mouse was frightened to death",
+            "The mouse had a heart attack",
+            "The mouse was electrocuted",
+            "The mouse had cancer"
+        ],
+        "answer": "The mouse was electrocuted",
+        "source": "OpenbookQA"
+    },
+    {
+        "question": "What is made of minerals?",
+        "choices": [
+            "Stonehenge",
+            "car engines",
+            "alcohol",
+            "electricity"
+        ],
+        "answer": "Stonehenge",
+        "source": "OpenbookQA"
+    },
+    {
+        "question": "What can show how a rainbow is formed by refraction of light by splitting light into all different colors?",
+        "choices": [
+            "watching sunlight bounce off a mirror",
+            "shining a flashlight on a gem",
+            "shining a flashlight at a mirror",
+            "looking at a freshly formed diamond"
+        ],
+        "answer": "shining a flashlight on a gem",
+        "source": "OpenbookQA"
+    },
+    {
+        "question": "What primarily drives the hydrologic cycle to produce clouds?",
+        "choices": [
+            "a stalking butler who upon the finger rests",
+            "how soiled the clothing is",
+            "energy from a gun",
+            "energy from a central star"
+        ],
+        "answer": "energy from a central star",
+        "source": "OpenbookQA"
+    },
+    {
+        "question": "Water vapor helps with?",
+        "choices": [
+            "The sidewalk",
+            "A pool",
+            "A cat",
+            "A habitat"
+        ],
+        "answer": "A habitat",
+        "source": "OpenbookQA"
+    },
+    {
+        "question": "What can cause a forest fire?",
+        "choices": [
+            "littering cans and food wrappers",
+            "an overheating car engine",
+            "a combination of snow and rain",
+            "sudden electrostatic discharge from a cloud"
+        ],
+        "answer": "sudden electrostatic discharge from a cloud",
+        "source": "OpenbookQA"
+    },
+    {
+        "question": "What prohibits cells from contorting into deformed shapes?",
+        "choices": [
+            "helpful viruses help them retain their function",
+            "a prison cell wall contains them",
+            "the thin membrane which surrounds them",
+            "they have a Chilton's manual to guide them"
+        ],
+        "answer": "the thin membrane which surrounds them",
+        "source": "OpenbookQA"
+    },
+    {
+        "question": "What material can be used to transmit power to a light bulb?",
+        "choices": [
+            "plastic",
+            "metal",
+            "wood",
+            "cloth"
+        ],
+        "answer": "metal",
+        "source": "OpenbookQA"
+    },
+    {
+        "question": "Where would rocks be the smoothest?",
+        "choices": [
+            "where thunder was heard",
+            "where water has flowed for years",
+            "where wind has blown for days",
+            "where the human population is the highest"
+        ],
+        "answer": "where water has flowed for years",
+        "source": "OpenbookQA"
+    },
+    {
+        "question": "If John were going to the store, how would he measure his trip?",
+        "choices": [
+            "kilometer",
+            "centimeter",
+            "decameter",
+            "meter"
+        ],
+        "answer": "kilometer",
+        "source": "OpenbookQA"
+    },
+    {
+        "question": "what affects an organisms acquired characteristics?",
+        "choices": [
+            "the moon",
+            "gravity",
+            "its immediate surroundings",
+            "birthday"
+        ],
+        "answer": "its immediate surroundings",
+        "source": "OpenbookQA"
+    },
+    {
+        "question": "What will happen if more people bike instead of drive cars?",
+        "choices": [
+            "more cars will be bought",
+            "more deer will get hit by cars",
+            "it will be easier to breathe",
+            "less people will ride bikes"
+        ],
+        "answer": "it will be easier to breathe",
+        "source": "OpenbookQA"
+    },
+    {
+        "question": "The shelf of the continent is close to?",
+        "choices": [
+            "whales",
+            "island changes",
+            "oceanic frontier edge",
+            "boats"
+        ],
+        "answer": "oceanic frontier edge",
+        "source": "OpenbookQA"
+    },
+    {
+        "question": "What makes sure that the tips of your toes have enough of the gas that plants put off?",
+        "choices": [
+            "your circulatory system",
+            "your pancreas",
+            "warm socks",
+            "your nervous system"
+        ],
+        "answer": "your circulatory system",
+        "source": "OpenbookQA"
+    },
+    {
+        "question": "How might a dresser crab avoid attention in an aquarium containing pieces of velvet and necklaces made of colorful stones?",
+        "choices": [
+            "hold a vibrant piece of cloth and wave it rapidly back and forth",
+            "display bright colors to stand out to the fish",
+            "transform into a bureau replete with clothing",
+            "disguise itself as just some junk on the bottom of the tank"
+        ],
+        "answer": "disguise itself as just some junk on the bottom of the tank",
+        "source": "OpenbookQA"
+    },
+    {
+        "question": "What can you point to as an example of water vapor?",
+        "choices": [
+            "a mountain that looks like a bear",
+            "the smoke coming from a distant fire",
+            "a group of birds that looks like a wine glass",
+            "a white puff in the sky that is shaped like a bird"
+        ],
+        "answer": "a white puff in the sky that is shaped like a bird",
+        "source": "OpenbookQA"
+    },
+    {
+        "question": "Why do zebras choose to live where they live?",
+        "choices": [
+            "great location",
+            "lovely view",
+            "edible items",
+            "good parking"
+        ],
+        "answer": "edible items",
+        "source": "OpenbookQA"
+    },
+    {
+        "question": "if a book was intact on the desk in the morning, but in shreds in the afternoon, what happened?",
+        "choices": [
+            "it had spontaneous combustion",
+            "the book was made of plastic",
+            "it underwent a tearing process",
+            "the book committed suicide"
+        ],
+        "answer": "it underwent a tearing process",
+        "source": "OpenbookQA"
+    },
+    {
+        "question": "35 percent of what depends on pollination?",
+        "choices": [
+            "flowers",
+            "people",
+            "crops",
+            "bees"
+        ],
+        "answer": "crops",
+        "source": "OpenbookQA"
+    },
+    {
+        "question": "Friction increases as what increases on a surface?",
+        "choices": [
+            "smooth",
+            "shiny",
+            "rutted",
+            "clean"
+        ],
+        "answer": "rutted",
+        "source": "OpenbookQA"
+    },
+    {
+        "question": "What product eventually will become human waste?",
+        "choices": [
+            "stars",
+            "unicorns",
+            "black holes",
+            "corn"
+        ],
+        "answer": "corn",
+        "source": "OpenbookQA"
+    },
+    {
+        "question": "Where's the best place to mine for coal?",
+        "choices": [
+            "icebergs",
+            "jewelry store",
+            "lakes",
+            "mountains"
+        ],
+        "answer": "mountains",
+        "source": "OpenbookQA"
+    },
+    {
+        "question": "do ecosystems remain the same?",
+        "choices": [
+            "they are altered with time",
+            "ecosystems are always the same",
+            "with time they only grow",
+            "ecosystems experience very little change"
+        ],
+        "answer": "they are altered with time",
+        "source": "OpenbookQA"
+    },
+    {
+        "question": "____ burns from the energy of ____",
+        "choices": [
+            "death; wind",
+            "a teacandle; wax",
+            "food; water",
+            "water; fire"
+        ],
+        "answer": "a teacandle; wax",
+        "source": "OpenbookQA"
+    },
+    {
+        "question": "Electric cars can have _______ and still run",
+        "choices": [
+            "feelings",
+            "digestive tracts",
+            "empty juice",
+            "hairy bodies"
+        ],
+        "answer": "empty juice",
+        "source": "OpenbookQA"
+    },
+    {
+        "question": "how many hours will it take the planet to complete a spinning motion?",
+        "choices": [
+            "22",
+            "24",
+            "twenty hours",
+            "twenty one hours"
+        ],
+        "answer": "24",
+        "source": "OpenbookQA"
+    },
+    {
+        "question": "On what surface does a braking car have the most trouble?",
+        "choices": [
+            "gravel",
+            "oil slick",
+            "sand",
+            "asphalt"
+        ],
+        "answer": "oil slick",
+        "source": "OpenbookQA"
+    },
+    {
+        "question": "What is a greenhouse?",
+        "choices": [
+            "A place for foreign plants",
+            "A house painted green",
+            "A secret Army base",
+            "The opposite of the White House"
+        ],
+        "answer": "A place for foreign plants",
+        "source": "OpenbookQA"
+    },
+    {
+        "question": "something in a cold place becomes what?",
+        "choices": [
+            "warmish",
+            "toasty",
+            "hot",
+            "chilly"
+        ],
+        "answer": "chilly",
+        "source": "OpenbookQA"
+    },
+    {
+        "question": "You can produce what by burning natural gas?",
+        "choices": [
+            "snow",
+            "a warmer room",
+            "oxygen",
+            "water"
+        ],
+        "answer": "a warmer room",
+        "source": "OpenbookQA"
+    },
+    {
+        "question": "What does the earth orbit that makes the seasons to change?",
+        "choices": [
+            "pluto",
+            "plasma star",
+            "venus",
+            "mercury"
+        ],
+        "answer": "plasma star",
+        "source": "OpenbookQA"
+    },
+    {
+        "question": "What does planting native plants has a positive impact on?",
+        "choices": [
+            "markets",
+            "territory",
+            "winds",
+            "economies"
+        ],
+        "answer": "territory",
+        "source": "OpenbookQA"
+    },
+    {
+        "question": "How many lizards live in desert habitats?",
+        "choices": [
+            "all",
+            "some",
+            "fifteen",
+            "none"
+        ],
+        "answer": "some",
+        "source": "OpenbookQA"
+    },
+    {
+        "question": "Why should people conserve gas when fueling their cars?",
+        "choices": [
+            "because it can only be used once",
+            "because it is hard to find",
+            "because the more it is used the more it costs",
+            "because it can mess up their engines"
+        ],
+        "answer": "because it can only be used once",
+        "source": "OpenbookQA"
+    },
+    {
+        "question": "When a wildfire happens what catches fire?",
+        "choices": [
+            "rocks",
+            "timberland",
+            "water",
+            "rivers"
+        ],
+        "answer": "timberland",
+        "source": "OpenbookQA"
+    },
+    {
+        "question": "If an entity in intergalactic space has thrust placed upon it, what is the expected result?",
+        "choices": [
+            "it will start moving with acceleration",
+            "it will make a loud noise",
+            "spontaneously teleport a light year away",
+            "remain in the same location"
+        ],
+        "answer": "it will start moving with acceleration",
+        "source": "OpenbookQA"
+    },
+    {
+        "question": "How do Remora get their food?",
+        "choices": [
+            "catch it",
+            "scavenge",
+            "hunt",
+            "steal"
+        ],
+        "answer": "scavenge",
+        "source": "OpenbookQA"
+    },
+    {
+        "question": "What has a positive impact on body strength?",
+        "choices": [
+            "frequent physical contact",
+            "irregular body motion",
+            "decreased physical effort",
+            "active physical effort"
+        ],
+        "answer": "active physical effort",
+        "source": "OpenbookQA"
+    },
+    {
+        "question": "What rotates on its axis?",
+        "choices": [
+            "oceans",
+            "winds",
+            "blue world",
+            "people"
+        ],
+        "answer": "blue world",
+        "source": "OpenbookQA"
+    },
+    {
+        "question": "Soil could be Earth's what?",
+        "choices": [
+            "dermis",
+            "Buddy",
+            "Magic",
+            "Tears"
+        ],
+        "answer": "dermis",
+        "source": "OpenbookQA"
+    },
+    {
+        "question": "a force acting on an object in the opposite direction that the object is moving can cause that object 's speed to decrease in what motion?",
+        "choices": [
+            "frontward",
+            "backward",
+            "downward",
+            "upward"
+        ],
+        "answer": "frontward",
+        "source": "OpenbookQA"
+    },
+    {
+        "question": "Tearing an object changes that object's what?",
+        "choices": [
+            "heat",
+            "liquid",
+            "entire appearance",
+            "shape keys"
+        ],
+        "answer": "entire appearance",
+        "source": "OpenbookQA"
+    },
+    {
+        "question": "An example of a fossil is a paw print in what?",
+        "choices": [
+            "water",
+            "sky",
+            "air",
+            "hard stones"
+        ],
+        "answer": "hard stones",
+        "source": "OpenbookQA"
+    },
+    {
+        "question": "what do planets orbit?",
+        "choices": [
+            "asteroids",
+            "moons",
+            "burning hydrogen ball",
+            "they are orbitless"
+        ],
+        "answer": "burning hydrogen ball",
+        "source": "OpenbookQA"
+    },
+    {
+        "question": "a tree felling bulldozer goes through a wooded area, leveling it down, what happens to the trees in the ground?",
+        "choices": [
+            "they will become taller",
+            "they will grow stronger",
+            "they will thrive and rise",
+            "they will perish right there"
+        ],
+        "answer": "they will perish right there",
+        "source": "OpenbookQA"
+    },
+    {
+        "question": "What former planet is yet to clear its orbit?",
+        "choices": [
+            "planet Venus",
+            "the earth",
+            "Former seventh planet",
+            "planet Mars"
+        ],
+        "answer": "Former seventh planet",
+        "source": "OpenbookQA"
+    },
+    {
+        "question": "Jerry put some salt into some tap water and stirred it up. What has Jerry made?",
+        "choices": [
+            "a solution",
+            "a battery",
+            "sea water",
+            "lemonade"
+        ],
+        "answer": "a solution",
+        "source": "OpenbookQA"
+    },
+    {
+        "question": "Poison causes harm to what things?",
+        "choices": [
+            "vibrant",
+            "mineral",
+            "dead",
+            "decaying"
+        ],
+        "answer": "vibrant",
+        "source": "OpenbookQA"
+    },
+    {
+        "question": "A pulley is used to do what with objects?",
+        "choices": [
+            "crush",
+            "cool",
+            "increase altitude",
+            "elevate significance"
+        ],
+        "answer": "increase altitude",
+        "source": "OpenbookQA"
+    },
+    {
+        "question": "What will it be harder to see as light pollution increases?",
+        "choices": [
+            "sky",
+            "moon",
+            "stars",
+            "sun"
+        ],
+        "answer": "stars",
+        "source": "OpenbookQA"
+    },
+    {
+        "question": "Smoking causes direct damage to what?",
+        "choices": [
+            "feet",
+            "breathing organ",
+            "stomach",
+            "skin"
+        ],
+        "answer": "breathing organ",
+        "source": "OpenbookQA"
+    },
+    {
+        "question": "What will increase as the animal eats more food?",
+        "choices": [
+            "starvation",
+            "trees",
+            "belly size",
+            "hunger"
+        ],
+        "answer": "belly size",
+        "source": "OpenbookQA"
+    },
+    {
+        "question": "Illness has a negative impact on the health of what?",
+        "choices": [
+            "rocks",
+            "bricks",
+            "llamas",
+            "plastics"
+        ],
+        "answer": "llamas",
+        "source": "OpenbookQA"
+    },
+    {
+        "question": "Cycles of day and night occur how often in a day?",
+        "choices": [
+            "5 times",
+            "singular instances",
+            "forty times",
+            "once a year"
+        ],
+        "answer": "singular instances",
+        "source": "OpenbookQA"
+    },
+    {
+        "question": "Why did the chicken cross the road?",
+        "choices": [
+            "to side with the foxes",
+            "to be made into chicken of the sea tuna fish",
+            "their habitat was flooded",
+            "because they crossed an evil sorcerer"
+        ],
+        "answer": "their habitat was flooded",
+        "source": "OpenbookQA"
+    },
+    {
+        "question": "What happens when hexane's temperature goes above 70 degrees celsius?",
+        "choices": [
+            "It melts",
+            "it sublimates",
+            "it boils",
+            "It freezes"
+        ],
+        "answer": "it boils",
+        "source": "OpenbookQA"
+    },
+    {
+        "question": "What contains chlorophyll?",
+        "choices": [
+            "plastic",
+            "water",
+            "green organelles",
+            "paper"
+        ],
+        "answer": "green organelles",
+        "source": "OpenbookQA"
+    },
+    {
+        "question": "What might be created with brass?",
+        "choices": [
+            "a tree",
+            "Light placers",
+            "A Cotton dress",
+            "Tennis shoes"
+        ],
+        "answer": "Light placers",
+        "source": "OpenbookQA"
+    },
+    {
+        "question": "a little rat startles a cat and ends up as the cat's lunch. What does that make the car?",
+        "choices": [
+            "the cat is a dog",
+            "the cat is a bad cat",
+            "the cat is carnivorous or omnivorous",
+            "the cat loves milk"
+        ],
+        "answer": "the cat is carnivorous or omnivorous",
+        "source": "OpenbookQA"
+    },
+    {
+        "question": "What is going to become dryer faster?",
+        "choices": [
+            "A wet shoe outside",
+            "A wet cloth in the fridge",
+            "A wet cloth in the dirt",
+            "A wet cloth under shade"
+        ],
+        "answer": "A wet shoe outside",
+        "source": "OpenbookQA"
+    },
+    {
+        "question": "If the mass of an object increases, what must the volume do for the density to stay the same?",
+        "choices": [
+            "increase",
+            "decrease",
+            "stay the same",
+            "become zero"
+        ],
+        "answer": "increase",
+        "source": "OpenbookQA"
+    },
+    {
+        "question": "An organism is a source of what kind of matter?",
+        "choices": [
+            "biotic",
+            "inanimate",
+            "dead",
+            "live action"
+        ],
+        "answer": "biotic",
+        "source": "OpenbookQA"
+    },
+    {
+        "question": "How is a location of lower elevation affected by flooding as opposed to a higher location?",
+        "choices": [
+            "It is more affected by the flood",
+            "It is more resistant than a higher place",
+            "The lower area is drier",
+            "It is impossible to flood a lower elevation location"
+        ],
+        "answer": "It is more affected by the flood",
+        "source": "OpenbookQA"
+    },
+    {
+        "question": "What dissolves in water when combined?",
+        "choices": [
+            "crystal carbohydrates",
+            "iron",
+            "oil",
+            "plastic"
+        ],
+        "answer": "crystal carbohydrates",
+        "source": "OpenbookQA"
+    },
+    {
+        "question": "Who'd be able to see a rose is pink at night?",
+        "choices": [
+            "rocks",
+            "the Rio Grande",
+            "a beeping sound",
+            "lemurs"
+        ],
+        "answer": "lemurs",
+        "source": "OpenbookQA"
+    },
+    {
+        "question": "What could be a conductor of energy?",
+        "choices": [
+            "a nickel",
+            "carrots",
+            "wood",
+            "cotton"
+        ],
+        "answer": "a nickel",
+        "source": "OpenbookQA"
+    },
+    {
+        "question": "Adding something poisonous to an environment and harming it is called what?",
+        "choices": [
+            "dirtying",
+            "liking",
+            "cleaning",
+            "observing"
+        ],
+        "answer": "dirtying",
+        "source": "OpenbookQA"
+    },
+    {
+        "question": "do all insects have to undergo every stage of change before becoming full grown?",
+        "choices": [
+            "all of these",
+            "insects are born live",
+            "pupa stage is sometimes skipped",
+            "pupa is a required stage"
+        ],
+        "answer": "pupa stage is sometimes skipped",
+        "source": "OpenbookQA"
+    },
+    {
+        "question": "To see how the plant stem works, you place a rose in what?",
+        "choices": [
+            "food dye",
+            "Fire",
+            "Lava",
+            "Metal"
+        ],
+        "answer": "food dye",
+        "source": "OpenbookQA"
+    },
+    {
+        "question": "Ultimately, what one thing is needed for energy for any living thing on Earth?",
+        "choices": [
+            "carbon dioxide",
+            "the closest star",
+            "blood",
+            "oxygen"
+        ],
+        "answer": "the closest star",
+        "source": "OpenbookQA"
+    },
+    {
+        "question": "Animals adapt to their what?",
+        "choices": [
+            "appearance",
+            "feet",
+            "skin",
+            "nature places"
+        ],
+        "answer": "nature places",
+        "source": "OpenbookQA"
+    },
+    {
+        "question": "Where would an arctic hare be least likely to be seen by a predator?",
+        "choices": [
+            "sitting on the dirt",
+            "on a sand dune",
+            "on a grass lawn",
+            "on a hill covered in deep, white, cold stuff"
+        ],
+        "answer": "on a hill covered in deep, white, cold stuff",
+        "source": "OpenbookQA"
+    },
+    {
+        "question": "What would light bounce off of when it hits it?",
+        "choices": [
+            "a wall painted grey",
+            "old worn out leather",
+            "a freshly waxed car",
+            "a street made of gravel"
+        ],
+        "answer": "a freshly waxed car",
+        "source": "OpenbookQA"
+    },
+    {
+        "question": "wildfire that is passed through the tree tops are dangerous, why?",
+        "choices": [
+            "it changes at the tip of a hat",
+            "it has magic powers",
+            "it creates a blackhole to suck up Earth",
+            "it has the power to travel in time"
+        ],
+        "answer": "it changes at the tip of a hat",
+        "source": "OpenbookQA"
+    },
+    {
+        "question": "What kind of energy causes evaporation?",
+        "choices": [
+            "hotness",
+            "sound",
+            "cold",
+            "kinetic"
+        ],
+        "answer": "hotness",
+        "source": "OpenbookQA"
+    },
+    {
+        "question": "What does girth in a flower do?",
+        "choices": [
+            "makes it smell better",
+            "makes it more beautiful",
+            "decreases the stigma size",
+            "increases the pollenator amount"
+        ],
+        "answer": "increases the pollenator amount",
+        "source": "OpenbookQA"
+    },
+    {
+        "question": "Eagles eat what?",
+        "choices": [
+            "grass",
+            "whales",
+            "hoppers",
+            "apples"
+        ],
+        "answer": "hoppers",
+        "source": "OpenbookQA"
+    },
+    {
+        "question": "Why might a polar bear grow white hair?",
+        "choices": [
+            "blend in",
+            "stand out",
+            "random",
+            "look fancy"
+        ],
+        "answer": "blend in",
+        "source": "OpenbookQA"
+    },
+    {
+        "question": "A product of what can travel through a vacuum?",
+        "choices": [
+            "Rigel",
+            "oil well",
+            "volcano",
+            "iceberg"
+        ],
+        "answer": "Rigel",
+        "source": "OpenbookQA"
+    },
+    {
+        "question": "If a substance can absorb solar energy, then what can or will happen to that substance?",
+        "choices": [
+            "it will see a raising of warmth levels",
+            "heat levels will decrease exponentially",
+            "temperatures will be maintained",
+            "the substance will gradually cool"
+        ],
+        "answer": "it will see a raising of warmth levels",
+        "source": "OpenbookQA"
+    },
+    {
+        "question": "What is most likely to occur before a rainstorm?",
+        "choices": [
+            "chlorine gas is released into the atmosphere",
+            "atmospheric water droplets collide",
+            "the electromagnetic field of the earth flips",
+            "rivers and lakes overflow"
+        ],
+        "answer": "atmospheric water droplets collide",
+        "source": "OpenbookQA"
+    },
+    {
+        "question": "How might you figure out what a parts are needed to let your car drive?",
+        "choices": [
+            "think very hard until you figure it out",
+            "ask the person who invented it",
+            "throw it in a lake and see if it floats",
+            "break it down and determine what it is composed of"
+        ],
+        "answer": "break it down and determine what it is composed of",
+        "source": "OpenbookQA"
+    },
+    {
+        "question": "A lady needs to be able to confirm what very small text reads on her pill bottle, so a ______ is necessary.",
+        "choices": [
+            "microscope",
+            "telescope",
+            "magnifier",
+            "binoculars"
+        ],
+        "answer": "magnifier",
+        "source": "OpenbookQA"
+    },
+    {
+        "question": "What forms craters on planets?",
+        "choices": [
+            "sunlight",
+            "thunder",
+            "space stones",
+            "digging"
+        ],
+        "answer": "space stones",
+        "source": "OpenbookQA"
+    },
+    {
+        "question": "Scavengers eat dead what?",
+        "choices": [
+            "fauna",
+            "stars",
+            "meteors",
+            "dreams"
+        ],
+        "answer": "fauna",
+        "source": "OpenbookQA"
+    },
+    {
+        "question": "cutting down trees in a forest causes the number of trees to decrease where?",
+        "choices": [
+            "space",
+            "deserts",
+            "oceans",
+            "timberland"
+        ],
+        "answer": "timberland",
+        "source": "OpenbookQA"
+    },
+    {
+        "question": "the moon is lacking what?",
+        "choices": [
+            "rocks",
+            "craters",
+            "gravity",
+            "h2o"
+        ],
+        "answer": "h2o",
+        "source": "OpenbookQA"
+    },
+    {
+        "question": "sugar dissolves in what when they are combined?",
+        "choices": [
+            "dirt",
+            "ocean liquid",
+            "honey",
+            "air"
+        ],
+        "answer": "ocean liquid",
+        "source": "OpenbookQA"
+    },
+    {
+        "question": "What would be a benefit of skipping showers?",
+        "choices": [
+            "getting facial acne",
+            "being smelly",
+            "having dirty hair",
+            "fostering healthy bacteria"
+        ],
+        "answer": "fostering healthy bacteria",
+        "source": "OpenbookQA"
+    },
+    {
+        "question": "What does the earth orbit that causes the seasons to change?",
+        "choices": [
+            "venus",
+            "pluto",
+            "neptune",
+            "plasma star"
+        ],
+        "answer": "plasma star",
+        "source": "OpenbookQA"
+    },
+    {
+        "question": "Stars appear in different areas in the sky at different times of year due to what?",
+        "choices": [
+            "Earths Rotation",
+            "Changing Weather",
+            "Suns Rotation",
+            "Time Change"
+        ],
+        "answer": "Earths Rotation",
+        "source": "OpenbookQA"
+    },
+    {
+        "question": "What do some animals do to adjust to hot temperatures?",
+        "choices": [
+            "they run",
+            "they hunt",
+            "they perspire",
+            "they fly"
+        ],
+        "answer": "they perspire",
+        "source": "OpenbookQA"
+    },
+    {
+        "question": "The usual kind of weather in a location is called what?",
+        "choices": [
+            "warmth",
+            "fog",
+            "zone conditions",
+            "visibility"
+        ],
+        "answer": "zone conditions",
+        "source": "OpenbookQA"
+    },
+    {
+        "question": "What is the source of cooling that turns lava into land?",
+        "choices": [
+            "seawater",
+            "refrigerators",
+            "air conditioning",
+            "glaciers"
+        ],
+        "answer": "seawater",
+        "source": "OpenbookQA"
+    },
+    {
+        "question": "What do white blood cells allow to stay in the body?",
+        "choices": [
+            "viruses",
+            "oxygen",
+            "parasites",
+            "bacteria"
+        ],
+        "answer": "oxygen",
+        "source": "OpenbookQA"
+    },
+    {
+        "question": "transpiration happens in the leaves of what?",
+        "choices": [
+            "rocks",
+            "shrubbery",
+            "cars",
+            "animals"
+        ],
+        "answer": "shrubbery",
+        "source": "OpenbookQA"
+    },
+    {
+        "question": "When the sun is set it is called what?",
+        "choices": [
+            "sleep time",
+            "noon",
+            "morning",
+            "dawn"
+        ],
+        "answer": "sleep time",
+        "source": "OpenbookQA"
+    },
+    {
+        "question": "if the boiling point of water is attained, what ensues beyond this point?",
+        "choices": [
+            "the water turns evaporates rapidly",
+            "the water then solidifies",
+            "the water becomes black",
+            "all of these"
+        ],
+        "answer": "the water turns evaporates rapidly",
+        "source": "OpenbookQA"
+    },
+    {
+        "question": "What will air usually do when heated up beyond a certain point?",
+        "choices": [
+            "it will fall",
+            "it will remain",
+            "it will ascend",
+            "it will die"
+        ],
+        "answer": "it will ascend",
+        "source": "OpenbookQA"
+    },
+    {
+        "question": "If a weed is pulled then the weed is what?",
+        "choices": [
+            "fruitful",
+            "terminated",
+            "functioning",
+            "ugly"
+        ],
+        "answer": "terminated",
+        "source": "OpenbookQA"
+    },
+    {
+        "question": "If it's been twelve weeks since you put on shorts, and you notice today the hours of light and dark are just about equal, how long will it be until Winter?",
+        "choices": [
+            "just over a year",
+            "around thirteen weeks or so",
+            "when G.R.R. Martin says it's here",
+            "when the groundhog sees its shadow"
+        ],
+        "answer": "around thirteen weeks or so",
+        "source": "OpenbookQA"
+    },
+    {
+        "question": "if two objects have the same charge then those two materials will effect each other how?",
+        "choices": [
+            "pull together",
+            "attract",
+            "unattract",
+            "bug repellent"
+        ],
+        "answer": "unattract",
+        "source": "OpenbookQA"
+    },
+    {
+        "question": "The mass of ground sliding down an embankment can be propagated by what?",
+        "choices": [
+            "a storm",
+            "forest fires",
+            "global warming",
+            "trees growing"
+        ],
+        "answer": "a storm",
+        "source": "OpenbookQA"
+    },
+    {
+        "question": "When would the days be the longest 1000 miles north of the equator?",
+        "choices": [
+            "the same time that the nights are the longest",
+            "in the month of March",
+            "6 months after Christmas",
+            "in the fall season"
+        ],
+        "answer": "6 months after Christmas",
+        "source": "OpenbookQA"
+    },
+    {
+        "question": "An animals brain controls what?",
+        "choices": [
+            "said organism",
+            "others",
+            "plants",
+            "fauna"
+        ],
+        "answer": "said organism",
+        "source": "OpenbookQA"
+    },
+    {
+        "question": "A quiet desert town will see more _____ than a big city will.",
+        "choices": [
+            "buildings",
+            "cars",
+            "people",
+            "stars"
+        ],
+        "answer": "stars",
+        "source": "OpenbookQA"
+    },
+    {
+        "question": "Desalinating water from the ocean does what to nearby fish?",
+        "choices": [
+            "helps them out",
+            "makes habitat nicer",
+            "gives them money",
+            "demolishes habitat"
+        ],
+        "answer": "demolishes habitat",
+        "source": "OpenbookQA"
+    },
+    {
+        "question": "mimicry is used for avoiding predators by animals by camouflaging as what kind of animal?",
+        "choices": [
+            "frightful",
+            "weak",
+            "tame",
+            "vulnerable"
+        ],
+        "answer": "frightful",
+        "source": "OpenbookQA"
+    },
+    {
+        "question": "What happens when mercury is placed in water?",
+        "choices": [
+            "it dissolves",
+            "it sinks",
+            "it floats",
+            "it hardens"
+        ],
+        "answer": "it sinks",
+        "source": "OpenbookQA"
+    },
+    {
+        "question": "If you miss seeing a full moon, how long will you have to wait until you get another chance?",
+        "choices": [
+            "7 days",
+            "a month",
+            "a week",
+            "168 hours"
+        ],
+        "answer": "a month",
+        "source": "OpenbookQA"
+    },
+    {
+        "question": "What relationship is most likely?",
+        "choices": [
+            "birds eat giraffes",
+            "dandelions eat worms",
+            "petunias devour mice",
+            "wolves eat voles"
+        ],
+        "answer": "wolves eat voles",
+        "source": "OpenbookQA"
+    },
+    {
+        "question": "When car is close to the runner the illumination of the motorized entity is at a higher level because?",
+        "choices": [
+            "moons gravity",
+            "motion",
+            "it is closer",
+            "sun rotation"
+        ],
+        "answer": "it is closer",
+        "source": "OpenbookQA"
+    },
+    {
+        "question": "Do objects change size with distance for Stevie Wonder?",
+        "choices": [
+            "Yes",
+            "No",
+            "sometimes",
+            "maybe"
+        ],
+        "answer": "No",
+        "source": "OpenbookQA"
+    },
+    {
+        "question": "a soil in a village seems to be nutrient deficient, what might have happened?",
+        "choices": [
+            "the soil is angry",
+            "the soil has been taken over by dogs",
+            "the gods are angry",
+            "there has been too much cultivation"
+        ],
+        "answer": "there has been too much cultivation",
+        "source": "OpenbookQA"
+    },
+    {
+        "question": "Webbed feet are used to move faster through what?",
+        "choices": [
+            "rain",
+            "winds",
+            "clouds",
+            "swamps"
+        ],
+        "answer": "swamps",
+        "source": "OpenbookQA"
+    },
+    {
+        "question": "What is used to catch prey by some birds?",
+        "choices": [
+            "a bill",
+            "fire",
+            "nets",
+            "cups"
+        ],
+        "answer": "a bill",
+        "source": "OpenbookQA"
+    },
+    {
+        "question": "What impact does humans changing animals habits have?",
+        "choices": [
+            "inimical",
+            "shameful",
+            "positive",
+            "happy"
+        ],
+        "answer": "inimical",
+        "source": "OpenbookQA"
+    },
+    {
+        "question": "How can you get your hands on white blood cells?",
+        "choices": [
+            "paint a fence",
+            "join a gang",
+            "tour a jail",
+            "pop a pustule"
+        ],
+        "answer": "pop a pustule",
+        "source": "OpenbookQA"
+    },
+    {
+        "question": "The dispersal of what has a positive impact on plants?",
+        "choices": [
+            "leaves",
+            "bark",
+            "branches",
+            "kernels"
+        ],
+        "answer": "kernels",
+        "source": "OpenbookQA"
+    },
+    {
+        "question": "What does a four leaf clover need to feed itself?",
+        "choices": [
+            "Irish",
+            "luck",
+            "the sun",
+            "ibex"
+        ],
+        "answer": "the sun",
+        "source": "OpenbookQA"
+    },
+    {
+        "question": "Light produced by deep sea animals is used for?",
+        "choices": [
+            "Navigation",
+            "Camouflage",
+            "Sexual Display",
+            "Catching Pray"
+        ],
+        "answer": "Catching Pray",
+        "source": "OpenbookQA"
+    },
+    {
+        "question": "What typically occurs between a sixth and a half of a minute?",
+        "choices": [
+            "a volcano",
+            "a television series",
+            "an hour",
+            "an earthquake"
+        ],
+        "answer": "an earthquake",
+        "source": "OpenbookQA"
+    },
+    {
+        "question": "Where would you most likely find iron?",
+        "choices": [
+            "the ocean",
+            "the air",
+            "a mine",
+            "a forest"
+        ],
+        "answer": "a mine",
+        "source": "OpenbookQA"
+    },
+    {
+        "question": "if a person rips up their notebook, what happens?",
+        "choices": [
+            "all the mentioned options",
+            "the shape becomes different",
+            "it takes a new structure",
+            "it loses its original form"
+        ],
+        "answer": "all the mentioned options",
+        "source": "OpenbookQA"
+    },
+    {
+        "question": "An object can be seen if it reflects light toward what?",
+        "choices": [
+            "visual organ",
+            "eye spy",
+            "feet",
+            "brain"
+        ],
+        "answer": "visual organ",
+        "source": "OpenbookQA"
+    },
+    {
+        "question": "Wildfire is when what catches fire?",
+        "choices": [
+            "timberland",
+            "farms",
+            "cities",
+            "winds"
+        ],
+        "answer": "timberland",
+        "source": "OpenbookQA"
+    },
+    {
+        "question": "What animal is cold-blooded?",
+        "choices": [
+            "cats",
+            "dogs",
+            "tree hopper",
+            "rats"
+        ],
+        "answer": "tree hopper",
+        "source": "OpenbookQA"
+    },
+    {
+        "question": "What is the source of energy for life on earth?",
+        "choices": [
+            "rivers",
+            "planets",
+            "astral star",
+            "mountains"
+        ],
+        "answer": "astral star",
+        "source": "OpenbookQA"
+    },
+    {
+        "question": "What is a likely product of a timber companies activities?",
+        "choices": [
+            "the battery of your cell phone",
+            "the ruler in your backpack",
+            "the porcelain in your toilet",
+            "the bottle you drink from"
+        ],
+        "answer": "the ruler in your backpack",
+        "source": "OpenbookQA"
+    },
+    {
+        "question": "What causes flooding?",
+        "choices": [
+            "dryness",
+            "droughts",
+            "sunlight",
+            "deluges"
+        ],
+        "answer": "deluges",
+        "source": "OpenbookQA"
+    },
+    {
+        "question": "What can cause animals to leave an environment?",
+        "choices": [
+            "grass",
+            "abundant food",
+            "earth tremors",
+            "natural winds"
+        ],
+        "answer": "earth tremors",
+        "source": "OpenbookQA"
+    },
+    {
+        "question": "if white cold items drop from the sky, what might these be?",
+        "choices": [
+            "a gift from the heavens",
+            "a cloud is crying",
+            "it is an anomaly",
+            "it is ice precipitation"
+        ],
+        "answer": "it is ice precipitation",
+        "source": "OpenbookQA"
+    },
+    {
+        "question": "something will attract magnets if that something contains a large amount of what kind of material?",
+        "choices": [
+            "strong",
+            "water",
+            "liquid",
+            "rare-earth minerals"
+        ],
+        "answer": "rare-earth minerals",
+        "source": "OpenbookQA"
+    },
+    {
+        "question": "Where is a mama bear likely to find food?",
+        "choices": [
+            "on top of the highest trees",
+            "in the deepest mines",
+            "in the inside of a felled oak",
+            "at the bottom of the lake"
+        ],
+        "answer": "in the inside of a felled oak",
+        "source": "OpenbookQA"
+    },
+    {
+        "question": "Who would likely need a compass?",
+        "choices": [
+            "a fish",
+            "a taxi driver",
+            "a bobcat",
+            "a seaman"
+        ],
+        "answer": "a seaman",
+        "source": "OpenbookQA"
+    },
+    {
+        "question": "If an organism dies then the population of that organism will what?",
+        "choices": [
+            "lessen",
+            "skyrocket",
+            "rise",
+            "grow"
+        ],
+        "answer": "lessen",
+        "source": "OpenbookQA"
+    },
+    {
+        "question": "A screw will increase in temperature when set in the sun's path, why?",
+        "choices": [
+            "heating element",
+            "building device",
+            "conduction",
+            "convection"
+        ],
+        "answer": "conduction",
+        "source": "OpenbookQA"
+    },
+    {
+        "question": "How long would it take for you to notice the sun's movement?",
+        "choices": [
+            "half an hour",
+            "15 seconds",
+            "half a minute",
+            "one nanosecond"
+        ],
+        "answer": "half an hour",
+        "source": "OpenbookQA"
+    },
+    {
+        "question": "What does a frog eat?",
+        "choices": [
+            "plantlife",
+            "bug microphones",
+            "mayflies",
+            "minerals"
+        ],
+        "answer": "mayflies",
+        "source": "OpenbookQA"
+    },
+    {
+        "question": "When a bear eats berries he will be contributing to what process?",
+        "choices": [
+            "food for young",
+            "hunters",
+            "seed propagation",
+            "hunger"
+        ],
+        "answer": "seed propagation",
+        "source": "OpenbookQA"
+    },
+    {
+        "question": "A creature's habitat would be like what, if it has wide appendages that grasp liquids well?",
+        "choices": [
+            "salt water",
+            "salty",
+            "mountainous",
+            "dry"
+        ],
+        "answer": "salt water",
+        "source": "OpenbookQA"
+    },
+    {
+        "question": "what process is adulthood categorized under?",
+        "choices": [
+            "the living term",
+            "a plant feeding",
+            "the entertainment circuit",
+            "a chemical reaction"
+        ],
+        "answer": "the living term",
+        "source": "OpenbookQA"
+    },
+    {
+        "question": "The BP disaster caused what to go into what?",
+        "choices": [
+            "fuel into Gulf",
+            "satellites into space",
+            "lightning into forests",
+            "lava into park"
+        ],
+        "answer": "fuel into Gulf",
+        "source": "OpenbookQA"
+    },
+    {
+        "question": "What enters the eye through the pupil?",
+        "choices": [
+            "diverse light energy",
+            "light bacteria",
+            "air",
+            "drops of water"
+        ],
+        "answer": "diverse light energy",
+        "source": "OpenbookQA"
+    },
+    {
+        "question": "who would see better through an underground tunnel?",
+        "choices": [
+            "a boy with a pen",
+            "a man with a stick",
+            "a man with a spoon",
+            "a man with a candle and match"
+        ],
+        "answer": "a man with a candle and match",
+        "source": "OpenbookQA"
+    },
+    {
+        "question": "Do all organisms reproduce uniformly?",
+        "choices": [
+            "they are different",
+            "they are same",
+            "they reproduce equally",
+            "reproduction is fixed"
+        ],
+        "answer": "they are different",
+        "source": "OpenbookQA"
+    },
+    {
+        "question": "The pull of gravity on objects increase as what happens?",
+        "choices": [
+            "the object gets further away",
+            "the object is pulled in circles",
+            "gravity is heavier on an object",
+            "the object is brought closer"
+        ],
+        "answer": "the object is brought closer",
+        "source": "OpenbookQA"
+    },
+    {
+        "question": "Oceans cover 70% of the surface of what?",
+        "choices": [
+            "the moon",
+            "the sun",
+            "wet planet",
+            "cities"
+        ],
+        "answer": "wet planet",
+        "source": "OpenbookQA"
+    },
+    {
+        "question": "If a snow storm is coming you should?",
+        "choices": [
+            "Go out",
+            "Find pizza",
+            "Buy supplies",
+            "Watch Tv"
+        ],
+        "answer": "Buy supplies",
+        "source": "OpenbookQA"
+    },
+    {
+        "question": "What is an example of reproduction occurring in adulthood?",
+        "choices": [
+            "humans are unable to reproduce until they are legal adults",
+            "eggs are unable to be fertilized before they are dropped",
+            "dogs are unable to have puppies until they are two years old",
+            "cats are unable to produce offspring until they are sexually mature"
+        ],
+        "answer": "cats are unable to produce offspring until they are sexually mature",
+        "source": "OpenbookQA"
+    },
+    {
+        "question": "What are the source of fruit?",
+        "choices": [
+            "wood",
+            "plant diagrams",
+            "green life",
+            "housing"
+        ],
+        "answer": "green life",
+        "source": "OpenbookQA"
+    },
+    {
+        "question": "What absorbs nutrients from soil into themselves through their roots?",
+        "choices": [
+            "flour",
+            "power plants",
+            "animals",
+            "flora"
+        ],
+        "answer": "flora",
+        "source": "OpenbookQA"
+    },
+    {
+        "question": "the Earth rotating on its axis causes the sun to appear to move across the sky during what?",
+        "choices": [
+            "dark hours",
+            "sunlight deficient",
+            "night",
+            "waking hours"
+        ],
+        "answer": "waking hours",
+        "source": "OpenbookQA"
+    },
+    {
+        "question": "if a tunnel had a modern facility for seeing, what can we infer from this?",
+        "choices": [
+            "there is water in use",
+            "Thomas Edison's work is in use",
+            "there is sunlight in use",
+            "there is petrol in use"
+        ],
+        "answer": "Thomas Edison's work is in use",
+        "source": "OpenbookQA"
+    },
+    {
+        "question": "A living thing requires what to grow?",
+        "choices": [
+            "support",
+            "nutriment",
+            "toys",
+            "plastic"
+        ],
+        "answer": "nutriment",
+        "source": "OpenbookQA"
+    },
+    {
+        "question": "Electricity causes less pollution than what?",
+        "choices": [
+            "sound",
+            "car propellant",
+            "water",
+            "sunlight"
+        ],
+        "answer": "car propellant",
+        "source": "OpenbookQA"
+    },
+    {
+        "question": "What will become magnetic in an electromagnet if the battery becomes active?",
+        "choices": [
+            "A construction nail",
+            "A plastic nail",
+            "A nail box",
+            "A wooden nail"
+        ],
+        "answer": "A construction nail",
+        "source": "OpenbookQA"
+    },
+    {
+        "question": "Screws and bolts are needed to do what with a bike?",
+        "choices": [
+            "eat it",
+            "cry",
+            "nothing",
+            "construct it"
+        ],
+        "answer": "construct it",
+        "source": "OpenbookQA"
+    },
+    {
+        "question": "Liz's 72 Mustang stopped on the highway because it had run out of fuel. What does she need?",
+        "choices": [
+            "an available electrical outlet",
+            "A product derived from oil",
+            "a clean solar panel",
+            "a new set of spark plugs"
+        ],
+        "answer": "A product derived from oil",
+        "source": "OpenbookQA"
+    },
+    {
+        "question": "Cows only eat what?",
+        "choices": [
+            "flora",
+            "animals",
+            "water",
+            "bugs"
+        ],
+        "answer": "flora",
+        "source": "OpenbookQA"
+    },
+    {
+        "question": "A rainbow is caused by rain and what?",
+        "choices": [
+            "grass",
+            "winds",
+            "solar rays",
+            "oceans"
+        ],
+        "answer": "solar rays",
+        "source": "OpenbookQA"
+    },
+    {
+        "question": "The slight angle of the axis of the human planet is responsible for the energy allotment that is received by what?",
+        "choices": [
+            "polar areas",
+            "mars continents",
+            "free countries",
+            "all countries"
+        ],
+        "answer": "all countries",
+        "source": "OpenbookQA"
+    },
+    {
+        "question": "What is something that could be made from iron?",
+        "choices": [
+            "Cats",
+            "RVs",
+            "Wood",
+            "Feelings"
+        ],
+        "answer": "RVs",
+        "source": "OpenbookQA"
+    },
+    {
+        "question": "A predator eats other animals for what?",
+        "choices": [
+            "food charts",
+            "entertainment",
+            "enrichment",
+            "expectations"
+        ],
+        "answer": "enrichment",
+        "source": "OpenbookQA"
+    },
+    {
+        "question": "If a house burns down, the goldfish inside may do what?",
+        "choices": [
+            "quit swimming",
+            "be hungry",
+            "grow",
+            "get smarter"
+        ],
+        "answer": "quit swimming",
+        "source": "OpenbookQA"
+    },
+    {
+        "question": "A stage in the life cycle process includes what aspect?",
+        "choices": [
+            "killing of kin",
+            "entity replication",
+            "transporting water",
+            "reproducing ideas"
+        ],
+        "answer": "entity replication",
+        "source": "OpenbookQA"
+    },
+    {
+        "question": "What dense environment is often dark in color?",
+        "choices": [
+            "plains",
+            "mountains",
+            "tree land",
+            "deserts"
+        ],
+        "answer": "tree land",
+        "source": "OpenbookQA"
+    },
+    {
+        "question": "When a baseball is hit with a bat the ball particles do what?",
+        "choices": [
+            "Fly",
+            "Vibrate",
+            "Talk",
+            "Roll"
+        ],
+        "answer": "Vibrate",
+        "source": "OpenbookQA"
+    },
+    {
+        "question": "What can build something over millions of years?",
+        "choices": [
+            "a river",
+            "a person",
+            "society",
+            "dinosaurs"
+        ],
+        "answer": "a river",
+        "source": "OpenbookQA"
+    },
+    {
+        "question": "what is a mammal's parenting behavior?",
+        "choices": [
+            "they give nutrition to their young",
+            "they lack care for their young",
+            "mammals eat their young",
+            "mammals have zero offspring"
+        ],
+        "answer": "they give nutrition to their young",
+        "source": "OpenbookQA"
+    },
+    {
+        "question": "What to humans do that causes animals to lose their habitats?",
+        "choices": [
+            "make apartments",
+            "take walks",
+            "sing songs",
+            "eat corn"
+        ],
+        "answer": "make apartments",
+        "source": "OpenbookQA"
+    },
+    {
+        "question": "in order for the body to absorb nutrients, where does the food typically enter from?",
+        "choices": [
+            "the mouth of the organism",
+            "the skin of the organism",
+            "the ear of the organism",
+            "the anus of the organism"
+        ],
+        "answer": "the mouth of the organism",
+        "source": "OpenbookQA"
+    },
+    {
+        "question": "How can we see that refracting sunlight causes light to split into different colors?",
+        "choices": [
+            "shining a light at a mirror",
+            "letting sunlight hit a broken mirror",
+            "setting a diamond outside on a bright day",
+            "shining a flashlight at broken glass on the floor"
+        ],
+        "answer": "setting a diamond outside on a bright day",
+        "source": "OpenbookQA"
+    },
+    {
+        "question": "Just a few days ago, Beth waded into her family's pond. Now when she stepped off the bank the pond was hard and she could walk on the surface. What happened?",
+        "choices": [
+            "a cold front had moved into the area",
+            "The pond had drained into an underground river",
+            "There was a lot of algae on the pond's surface",
+            "It had rained the night before"
+        ],
+        "answer": "a cold front had moved into the area",
+        "source": "OpenbookQA"
+    },
+    {
+        "question": "What is the source of air?",
+        "choices": [
+            "humans",
+            "space",
+            "chemistry",
+            "nature"
+        ],
+        "answer": "nature",
+        "source": "OpenbookQA"
+    },
+    {
+        "question": "If a tree is cut down what will happen to it?",
+        "choices": [
+            "vitality extinguishing",
+            "growth",
+            "vigor",
+            "life"
+        ],
+        "answer": "vitality extinguishing",
+        "source": "OpenbookQA"
+    },
+    {
+        "question": "The back and forth on daily routine in the sky happens how often?",
+        "choices": [
+            "one time during the single rotation",
+            "one cycle of the sun",
+            "during the winter solstice",
+            "springtime when the moon is at apex"
+        ],
+        "answer": "one time during the single rotation",
+        "source": "OpenbookQA"
+    },
+    {
+        "question": "What happens to a living thing if it becomes too cold?",
+        "choices": [
+            "pass away",
+            "joy",
+            "increased energy",
+            "warmth"
+        ],
+        "answer": "pass away",
+        "source": "OpenbookQA"
+    },
+    {
+        "question": "In an auction, how might a seller avoid too much of a loss?",
+        "choices": [
+            "buyer beware",
+            "Auction Block",
+            "Sealed Bid",
+            "setting a reserve"
+        ],
+        "answer": "setting a reserve",
+        "source": "OpenbookQA"
+    },
+    {
+        "question": "Winning a race requires you to be reach the finish line in a before your opponents, so using what will measure how much faster you win or lose by?",
+        "choices": [
+            "a rabbit",
+            "a cup",
+            "a cotton swab",
+            "a stopwatch"
+        ],
+        "answer": "a stopwatch",
+        "source": "OpenbookQA"
+    },
+    {
+        "question": "Plants derive what from soil?",
+        "choices": [
+            "pollination and germination",
+            "life sustaining substances",
+            "roots and oxygen",
+            "oxygen and argon"
+        ],
+        "answer": "life sustaining substances",
+        "source": "OpenbookQA"
+    },
+    {
+        "question": "What requires warmth for survival?",
+        "choices": [
+            "the moon",
+            "an ocean",
+            "a bloodhound",
+            "a computer"
+        ],
+        "answer": "a bloodhound",
+        "source": "OpenbookQA"
+    },
+    {
+        "question": "reptiles lay what?",
+        "choices": [
+            "live young",
+            "rocks",
+            "dirt",
+            "oval whites"
+        ],
+        "answer": "oval whites",
+        "source": "OpenbookQA"
+    },
+    {
+        "question": "Why is acid rain unhealthy?",
+        "choices": [
+            "because it causes drought",
+            "because it evaporates too quickly",
+            "It contains various detrimental particles from the air",
+            "because it causes algae growth"
+        ],
+        "answer": "It contains various detrimental particles from the air",
+        "source": "OpenbookQA"
+    },
+    {
+        "question": "How would a location's climate be determined?",
+        "choices": [
+            "look at the weather many mornings, afternoons, and evenings in different seasons",
+            "look at the the most extreme weather events",
+            "look at the weather at noon only",
+            "look at the weather on one day"
+        ],
+        "answer": "look at the weather many mornings, afternoons, and evenings in different seasons",
+        "source": "OpenbookQA"
+    },
+    {
+        "question": "What loosens soil?",
+        "choices": [
+            "gopher homes",
+            "wind",
+            "heat",
+            "bird nests"
+        ],
+        "answer": "gopher homes",
+        "source": "OpenbookQA"
+    },
+    {
+        "question": "will a glacier travel at greater speeds than a sea going vessel?",
+        "choices": [
+            "maybe it moves faster",
+            "this is likely to be false",
+            "all of these",
+            "odds are in its favor"
+        ],
+        "answer": "this is likely to be false",
+        "source": "OpenbookQA"
+    },
+    {
+        "question": "If an animal is trained to do something, that is a learned what?",
+        "choices": [
+            "mode of conduct",
+            "sensation",
+            "emotion",
+            "feeling"
+        ],
+        "answer": "mode of conduct",
+        "source": "OpenbookQA"
+    },
+    {
+        "question": "A car converts gasoline into motion and heat through what?",
+        "choices": [
+            "explosive charisma",
+            "cooling",
+            "incineration",
+            "warming"
+        ],
+        "answer": "incineration",
+        "source": "OpenbookQA"
+    },
+    {
+        "question": "How is a place of lower elevation affected by flooding when compared to a higher location?",
+        "choices": [
+            "It is more resistant than a higher place",
+            "The lower area is already flooded",
+            "It is more affected by the flood",
+            "It is impossible to flood a lower elevation location"
+        ],
+        "answer": "It is more affected by the flood",
+        "source": "OpenbookQA"
+    },
+    {
+        "question": "In May I have a black cat what might I be unable to wear?",
+        "choices": [
+            "dark purple",
+            "yellow",
+            "dark grey",
+            "black"
+        ],
+        "answer": "yellow",
+        "source": "OpenbookQA"
+    },
+    {
+        "question": "Where would sponges most likely be found making their home?",
+        "choices": [
+            "a great pyramid",
+            "a rotting ship",
+            "a ski lift",
+            "a skyscraper"
+        ],
+        "answer": "a rotting ship",
+        "source": "OpenbookQA"
+    },
+    {
+        "question": "A greenhouse is used to protect plants from what?",
+        "choices": [
+            "nutrients",
+            "freezing winds",
+            "socializing",
+            "fresh air"
+        ],
+        "answer": "freezing winds",
+        "source": "OpenbookQA"
+    },
+    {
+        "question": "A bird of prey is hunting a scaly meal. How might this creature avoid being spotted?",
+        "choices": [
+            "Lure the hunter into a trap and eat it first",
+            "Close its eyes and hope for the best",
+            "Altering its hues to look like the leaves",
+            "Flee at breakneck speeds"
+        ],
+        "answer": "Altering its hues to look like the leaves",
+        "source": "OpenbookQA"
+    },
+    {
+        "question": "In the wilderness, light pollution is?",
+        "choices": [
+            "less",
+            "stronger",
+            "brighter",
+            "more widespread"
+        ],
+        "answer": "less",
+        "source": "OpenbookQA"
+    },
+    {
+        "question": "Living near any body of water puts your home at risk of flooding, if there is?",
+        "choices": [
+            "too much rainfall",
+            "West Virginia",
+            "Jelly Beans",
+            "Tape"
+        ],
+        "answer": "too much rainfall",
+        "source": "OpenbookQA"
+    },
+    {
+        "question": "Suzy's friends call her Bigfoot, who can she likely blame for this?",
+        "choices": [
+            "her parents' intentions",
+            "her parents' genes",
+            "learned traits",
+            "her past life"
+        ],
+        "answer": "her parents' genes",
+        "source": "OpenbookQA"
+    },
+    {
+        "question": "matter in the liquid phase has what shape?",
+        "choices": [
+            "circle",
+            "adaptable",
+            "triangle",
+            "square"
+        ],
+        "answer": "adaptable",
+        "source": "OpenbookQA"
+    },
+    {
+        "question": "Kool-aid is a mix of what items as a solution?",
+        "choices": [
+            "sugar candy from store",
+            "water fluid within a sugar casing",
+            "soda pop within a can",
+            "sweets grains and flavors dissolved in liquid base of water"
+        ],
+        "answer": "sweets grains and flavors dissolved in liquid base of water",
+        "source": "OpenbookQA"
+    },
+    {
+        "question": "What would a sedimentary rock likely hold?",
+        "choices": [
+            "a trilobyte",
+            "a cookie",
+            "a wheatgrass shake",
+            "a diner"
+        ],
+        "answer": "a trilobyte",
+        "source": "OpenbookQA"
+    },
+    {
+        "question": "What is the use of organisms preserved in sedimentary rock?",
+        "choices": [
+            "clothing",
+            "water",
+            "food",
+            "fuel"
+        ],
+        "answer": "fuel",
+        "source": "OpenbookQA"
+    },
+    {
+        "question": "Why did the roadrunner cross the desert road?",
+        "choices": [
+            "to evade a polar bear",
+            "to evade a coyote",
+            "to dodge a tsunami",
+            "to outrun an avalanche"
+        ],
+        "answer": "to evade a coyote",
+        "source": "OpenbookQA"
+    },
+    {
+        "question": "If an electromagnet is active then a nail touching it will become what?",
+        "choices": [
+            "frozen",
+            "reactively charged",
+            "cold",
+            "magnetic personality"
+        ],
+        "answer": "reactively charged",
+        "source": "OpenbookQA"
+    },
+    {
+        "question": "What happens when molten lava comes into contact with a car?",
+        "choices": [
+            "it freezes into a solid",
+            "it turns into a gas",
+            "it reaches its melting point",
+            "it flies up into the sky"
+        ],
+        "answer": "it reaches its melting point",
+        "source": "OpenbookQA"
+    },
+    {
+        "question": "Where might you find the primary ingredient for making grilled rabbit in a spicy marinade?",
+        "choices": [
+            "a spacious area mostly covered with trees and undergrowth",
+            "inside of an AA battery",
+            "an enclosed bank vault",
+            "at the bottom of a bleached coral reef"
+        ],
+        "answer": "a spacious area mostly covered with trees and undergrowth",
+        "source": "OpenbookQA"
+    },
+    {
+        "question": "Being stronger has what impact on a creatures health?",
+        "choices": [
+            "bad impact",
+            "unexpected complications",
+            "minimum effect",
+            "good influence"
+        ],
+        "answer": "good influence",
+        "source": "OpenbookQA"
+    },
+    {
+        "question": "How long did it take the Grand Canyon to form? A",
+        "choices": [
+            "few amount of days",
+            "very lengthy amount of time",
+            "couple of billion dollars",
+            "very few amount of minutes"
+        ],
+        "answer": "very lengthy amount of time",
+        "source": "OpenbookQA"
+    },
+    {
+        "question": "if a person looked a their head in a mirror, and moved toward it, what would happen?",
+        "choices": [
+            "the head would start to grow",
+            "the head would disappear",
+            "the head would start to shrink",
+            "the head would explode"
+        ],
+        "answer": "the head would start to grow",
+        "source": "OpenbookQA"
+    },
+    {
+        "question": "Measuring is a way to collect data; what is an example of this?",
+        "choices": [
+            "pouring water into a gallon jug to save for later",
+            "pouring milk into a half cup to see how much is left",
+            "making sure that a blanket is warm enough for the night",
+            "noticing how long a cat's tail is"
+        ],
+        "answer": "pouring milk into a half cup to see how much is left",
+        "source": "OpenbookQA"
+    },
+    {
+        "question": "What are a source of fibers?",
+        "choices": [
+            "water",
+            "plantlife",
+            "rocks",
+            "air"
+        ],
+        "answer": "plantlife",
+        "source": "OpenbookQA"
+    },
+    {
+        "question": "Why would a bear eat so much that his fat wobbles when he walks?",
+        "choices": [
+            "so that other animals can have fun jumping on his belly",
+            "because he feels depressed",
+            "to be a bigger target for hunters",
+            "to prepare for the snowy season"
+        ],
+        "answer": "to prepare for the snowy season",
+        "source": "OpenbookQA"
+    },
+    {
+        "question": "What requires energy for growth?",
+        "choices": [
+            "a car",
+            "a hippopotamus",
+            "a house",
+            "a desk"
+        ],
+        "answer": "a hippopotamus",
+        "source": "OpenbookQA"
+    },
+    {
+        "question": "condensation is a stage in what cycle process?",
+        "choices": [
+            "h2o",
+            "space",
+            "solar",
+            "fire"
+        ],
+        "answer": "h2o",
+        "source": "OpenbookQA"
+    },
+    {
+        "question": "As the amount of water a plant receives increases what will usually happen with it?",
+        "choices": [
+            "diminish",
+            "shrinking",
+            "grow metal",
+            "expanded proportions"
+        ],
+        "answer": "expanded proportions",
+        "source": "OpenbookQA"
+    },
+    {
+        "question": "How essential is air for animals?",
+        "choices": [
+            "it is optional",
+            "it is necessary",
+            "it is useless",
+            "it is unknown"
+        ],
+        "answer": "it is necessary",
+        "source": "OpenbookQA"
+    },
+    {
+        "question": "Shivering is when an animal creates heat by shaking to keep the body what?",
+        "choices": [
+            "frozen",
+            "freezing",
+            "cold",
+            "agreeable temperature"
+        ],
+        "answer": "agreeable temperature",
+        "source": "OpenbookQA"
+    },
+    {
+        "question": "The planet that contains many ecosystems is sequentially _________ from the center of its solar system",
+        "choices": [
+            "fifth",
+            "first",
+            "third",
+            "fourth"
+        ],
+        "answer": "third",
+        "source": "OpenbookQA"
+    },
+    {
+        "question": "A flashlight converts chemical energy into what kind of energy?",
+        "choices": [
+            "light snacks",
+            "greens",
+            "food",
+            "illumination"
+        ],
+        "answer": "illumination",
+        "source": "OpenbookQA"
+    },
+    {
+        "question": "The doorbell was pushed, but sound failed to emit. What might cause this?",
+        "choices": [
+            "atmospheric pressure",
+            "Batteries dead",
+            "storm",
+            "temperature"
+        ],
+        "answer": "Batteries dead",
+        "source": "OpenbookQA"
+    },
+    {
+        "question": "What is an example of predators eating prey?",
+        "choices": [
+            "a boa constrictor devouring a monkey",
+            "a horse trampling a mouse",
+            "a cat eating a piece of grass",
+            "a whale eating tons of algae"
+        ],
+        "answer": "a boa constrictor devouring a monkey",
+        "source": "OpenbookQA"
+    },
+    {
+        "question": "A plant's roots break down rocks as the roots do what?",
+        "choices": [
+            "decay",
+            "grow old",
+            "develop",
+            "dcerease"
+        ],
+        "answer": "develop",
+        "source": "OpenbookQA"
+    },
+    {
+        "question": "Baking soda can react chemically with what?",
+        "choices": [
+            "oxidized alcohol",
+            "sunlight",
+            "dirt",
+            "wind"
+        ],
+        "answer": "oxidized alcohol",
+        "source": "OpenbookQA"
+    },
+    {
+        "question": "If the trees in an area are growing in soil rich with a certain vitamin, what might happen?",
+        "choices": [
+            "the vitamin would evaporate",
+            "the vitamin would leak back into the ground",
+            "the trees would mutate and die",
+            "the squirrels would have that vitamin in their system"
+        ],
+        "answer": "the squirrels would have that vitamin in their system",
+        "source": "OpenbookQA"
+    },
+    {
+        "question": "A calf born in a warm season will do what better than a calf born in a cold season?",
+        "choices": [
+            "see",
+            "stand",
+            "sense",
+            "flourish"
+        ],
+        "answer": "flourish",
+        "source": "OpenbookQA"
+    },
+    {
+        "question": "Materials like ethanol are used to produce electricity by _____.",
+        "choices": [
+            "hydroelectric power",
+            "renewable energy",
+            "burning",
+            "carbon fixation"
+        ],
+        "answer": "burning",
+        "source": "OpenbookQA"
+    },
+    {
+        "question": "A locations climate is what in the area?",
+        "choices": [
+            "Common forecast",
+            "water tide",
+            "rare storms",
+            "earthquakes"
+        ],
+        "answer": "Common forecast",
+        "source": "OpenbookQA"
+    },
+    {
+        "question": "A monkey births live what?",
+        "choices": [
+            "hares",
+            "younglings",
+            "rats",
+            "dogs"
+        ],
+        "answer": "younglings",
+        "source": "OpenbookQA"
+    },
+    {
+        "question": "as the number of pollinators attracted to a flower increases , the ability  to reproduce will increase for what?",
+        "choices": [
+            "whales",
+            "oceans",
+            "flora",
+            "animals"
+        ],
+        "answer": "flora",
+        "source": "OpenbookQA"
+    },
+    {
+        "question": "What would happen if you swing at a golf ball and miss?",
+        "choices": [
+            "pharmacy garbage",
+            "dog hair",
+            "loss of soil",
+            "soil gain"
+        ],
+        "answer": "loss of soil",
+        "source": "OpenbookQA"
+    },
+    {
+        "question": "Where would an archaeologist likely find an impression of an ancient footprint?",
+        "choices": [
+            "lying on the beach",
+            "under layers of dirt",
+            "on the surface of the moon",
+            "buried in a graveyard"
+        ],
+        "answer": "under layers of dirt",
+        "source": "OpenbookQA"
+    },
+    {
+        "question": "adding salt to a solid decreases what?",
+        "choices": [
+            "how much light it emits",
+            "how much sound it emits",
+            "the energy needed to harden",
+            "the speed it travels"
+        ],
+        "answer": "the energy needed to harden",
+        "source": "OpenbookQA"
+    },
+    {
+        "question": "what do planets orbit?",
+        "choices": [
+            "volcanos",
+            "starlight",
+            "astral beings",
+            "people"
+        ],
+        "answer": "astral beings",
+        "source": "OpenbookQA"
+    },
+    {
+        "question": "In the photosynthesis process what has the role of raw material?",
+        "choices": [
+            "water",
+            "CO2",
+            "wind",
+            "dirt"
+        ],
+        "answer": "CO2",
+        "source": "OpenbookQA"
+    },
+    {
+        "question": "What temperature is most likely to result in sweat?",
+        "choices": [
+            "0 degrees Celsius",
+            "95 degrees Fahrenheit",
+            "34 degrees Celsius",
+            "33 degrees Celsius"
+        ],
+        "answer": "95 degrees Fahrenheit",
+        "source": "OpenbookQA"
+    },
+    {
+        "question": "Who would refrain from eating a salad?",
+        "choices": [
+            "horses",
+            "cows",
+            "wolves",
+            "rabbits"
+        ],
+        "answer": "wolves",
+        "source": "OpenbookQA"
+    },
+    {
+        "question": "What gives birth to live young?",
+        "choices": [
+            "tarantulas",
+            "wildcats",
+            "vultures",
+            "anacondas"
+        ],
+        "answer": "wildcats",
+        "source": "OpenbookQA"
+    },
+    {
+        "question": "A magnifying glass would be useless in viewing?",
+        "choices": [
+            "tadpole",
+            "ant",
+            "sand grain",
+            "elephant"
+        ],
+        "answer": "elephant",
+        "source": "OpenbookQA"
+    },
+    {
+        "question": "What is an example of the fact that a thing is dead once it dies after having previously lived?",
+        "choices": [
+            "a small squirrel falls from a tree and breaks its leg",
+            "a panda stops eating and falls into a coma",
+            "a dog is paralyzed and is unable to move",
+            "a vibrant cat is deceased after being hit by a car"
+        ],
+        "answer": "a vibrant cat is deceased after being hit by a car",
+        "source": "OpenbookQA"
+    },
+    {
+        "question": "What conducts electricity?",
+        "choices": [
+            "a lego brick",
+            "suit of armor",
+            "a wooden table",
+            "a T-shirt"
+        ],
+        "answer": "suit of armor",
+        "source": "OpenbookQA"
+    },
+    {
+        "question": "All living things do what?",
+        "choices": [
+            "swim",
+            "develop",
+            "fly",
+            "shrink"
+        ],
+        "answer": "develop",
+        "source": "OpenbookQA"
+    },
+    {
+        "question": "Miletinae in the air above will have gone through a transmutation and would have already gone through what pre imago but post egg stage ?",
+        "choices": [
+            "egg stage",
+            "old stage",
+            "stage after larva",
+            "moth stage"
+        ],
+        "answer": "stage after larva",
+        "source": "OpenbookQA"
+    },
+    {
+        "question": "if something moves faster than before, it might have been affected by what?",
+        "choices": [
+            "the application of water",
+            "the application of force",
+            "the application of light",
+            "none of these"
+        ],
+        "answer": "the application of force",
+        "source": "OpenbookQA"
+    },
+    {
+        "question": "Illness is prevented in people by reducing what in food?",
+        "choices": [
+            "fiber",
+            "dangerous bugs",
+            "protein",
+            "fat"
+        ],
+        "answer": "dangerous bugs",
+        "source": "OpenbookQA"
+    },
+    {
+        "question": "The excretory system removes waste from what?",
+        "choices": [
+            "fire",
+            "persons insides",
+            "oceans",
+            "body of paragraph"
+        ],
+        "answer": "persons insides",
+        "source": "OpenbookQA"
+    },
+    {
+        "question": "What would classify students in a class differently?",
+        "choices": [
+            "species",
+            "favorite animal",
+            "home planet",
+            "current school"
+        ],
+        "answer": "favorite animal",
+        "source": "OpenbookQA"
+    },
+    {
+        "question": "Where do soil nutrients also exist?",
+        "choices": [
+            "in organism foods",
+            "in the air",
+            "in the barn",
+            "in the water"
+        ],
+        "answer": "in organism foods",
+        "source": "OpenbookQA"
+    },
+    {
+        "question": "How can you get more song birds to visit your yard?",
+        "choices": [
+            "put out some hamburgers to attract them",
+            "adopt some large dogs to stay in the yard",
+            "call Here birdy birdy! out the window",
+            "hang an open box containing tasty seeds from a tree"
+        ],
+        "answer": "hang an open box containing tasty seeds from a tree",
+        "source": "OpenbookQA"
+    },
+    {
+        "question": "Where would a river flow downwards?",
+        "choices": [
+            "at the zoo",
+            "on the mountainside",
+            "on the prairie",
+            "on flat land"
+        ],
+        "answer": "on the mountainside",
+        "source": "OpenbookQA"
+    },
+    {
+        "question": "Water is bubbling. What characteristic is it likely to have?",
+        "choices": [
+            "intense heat",
+            "cool water",
+            "melted water",
+            "easier to transport"
+        ],
+        "answer": "intense heat",
+        "source": "OpenbookQA"
+    },
+    {
+        "question": "migration is when animals travel from the north to Texas during what segment of time?",
+        "choices": [
+            "beach area",
+            "spring",
+            "winter",
+            "birds"
+        ],
+        "answer": "winter",
+        "source": "OpenbookQA"
+    },
+    {
+        "question": "A riverbank is made of what?",
+        "choices": [
+            "animals",
+            "oceans",
+            "loam",
+            "bones"
+        ],
+        "answer": "loam",
+        "source": "OpenbookQA"
+    },
+    {
+        "question": "Jeff noticed that the big dipper was in a different spot in the sky at 2am than where it was at 10pm. Why?",
+        "choices": [
+            "because of the earth's orbit",
+            "the stars had rotated",
+            "Jeff had been instantly transported thousands of miles from where he'd been at 10pm.",
+            "the earth had turned"
+        ],
+        "answer": "the earth had turned",
+        "source": "OpenbookQA"
+    },
+    {
+        "question": "What causes a chemical reaction?",
+        "choices": [
+            "mixing and heating edible items",
+            "putting water in a bowl",
+            "petting a small cat",
+            "rolling a ball on a floor"
+        ],
+        "answer": "mixing and heating edible items",
+        "source": "OpenbookQA"
+    },
+    {
+        "question": "Vitamin D heals what?",
+        "choices": [
+            "vision",
+            "human frame",
+            "sadness",
+            "brain damage"
+        ],
+        "answer": "human frame",
+        "source": "OpenbookQA"
+    },
+    {
+        "question": "What is a learned behavior?",
+        "choices": [
+            "a child eating",
+            "a child's sight",
+            "a child's hearing",
+            "a child swearing"
+        ],
+        "answer": "a child swearing",
+        "source": "OpenbookQA"
+    },
+    {
+        "question": "When you come across an animal that passed away, it sometimes smells awful because it died recently and has begun to what?",
+        "choices": [
+            "whimper",
+            "Rot",
+            "die",
+            "cook"
+        ],
+        "answer": "Rot",
+        "source": "OpenbookQA"
+    },
+    {
+        "question": "in order for utility of a tool to occur, what has to happen first?",
+        "choices": [
+            "it needs to be cleaned",
+            "none of these",
+            "it needs to be baptized",
+            "it needs to be invented"
+        ],
+        "answer": "it needs to be invented",
+        "source": "OpenbookQA"
+    },
+    {
+        "question": "What location that had a disaster in 2017 was caused by heavy rains?",
+        "choices": [
+            "San Francisco",
+            "Houston",
+            "Mexico City",
+            "Tokyo"
+        ],
+        "answer": "Houston",
+        "source": "OpenbookQA"
+    },
+    {
+        "question": "What could be put on a wall so that a neighbor stops complaining about your guitar playing at night?",
+        "choices": [
+            "paint",
+            "wallpaper",
+            "carpet",
+            "curtains"
+        ],
+        "answer": "carpet",
+        "source": "OpenbookQA"
+    },
+    {
+        "question": "The population of zebras is stagnant due to a lack of new baby zebras, what will happen over time to the community without support?",
+        "choices": [
+            "sadness",
+            "resurgence",
+            "shrinkage",
+            "regrowth"
+        ],
+        "answer": "shrinkage",
+        "source": "OpenbookQA"
+    },
+    {
+        "question": "What is a radio used for?",
+        "choices": [
+            "radiation",
+            "human contact",
+            "energy",
+            "water"
+        ],
+        "answer": "human contact",
+        "source": "OpenbookQA"
+    },
+    {
+        "question": "The atmosphere is made of 78% what?",
+        "choices": [
+            "N",
+            "fire",
+            "clouds",
+            "wind"
+        ],
+        "answer": "N",
+        "source": "OpenbookQA"
+    },
+    {
+        "question": "What is an example of playing a musical instrument?",
+        "choices": [
+            "blowing pipes",
+            "sleeping",
+            "walking",
+            "talking"
+        ],
+        "answer": "blowing pipes",
+        "source": "OpenbookQA"
+    },
+    {
+        "question": "As number of organisms in a group increases , how will the chance of survival of each organism change?",
+        "choices": [
+            "float",
+            "minimal change",
+            "augmented",
+            "lowered"
+        ],
+        "answer": "augmented",
+        "source": "OpenbookQA"
+    },
+    {
+        "question": "migration is when animals travel from the northern most state to Texas during what segment of time?",
+        "choices": [
+            "lake fronts",
+            "birds",
+            "winter",
+            "spring"
+        ],
+        "answer": "winter",
+        "source": "OpenbookQA"
+    },
+    {
+        "question": "What causes direct damage to the lungs?",
+        "choices": [
+            "drinking alcohol",
+            "consuming ignited tobacco",
+            "eating feces",
+            "swimming"
+        ],
+        "answer": "consuming ignited tobacco",
+        "source": "OpenbookQA"
+    },
+    {
+        "question": "How can a woman's compact best help if she is lost on a mountain?",
+        "choices": [
+            "She will be able to fix her appearance to be more likely to receive help",
+            "She can use the makeup as camouflage",
+            "she can use the mirror to signal someone",
+            "She can break the mirror to use the pieces for a weapon"
+        ],
+        "answer": "she can use the mirror to signal someone",
+        "source": "OpenbookQA"
+    },
+    {
+        "question": "The ocean contains large amounts of what?",
+        "choices": [
+            "people",
+            "salty biscuits",
+            "fires",
+            "saline liquids"
+        ],
+        "answer": "saline liquids",
+        "source": "OpenbookQA"
+    },
+    {
+        "question": "What is an example of protecting the environment?",
+        "choices": [
+            "flushing the toilet twice",
+            "using water flow limiter",
+            "driving shorter trips more often",
+            "using fancy, more expensive paper"
+        ],
+        "answer": "using water flow limiter",
+        "source": "OpenbookQA"
+    },
+    {
+        "question": "What is the most likely to be an effect of acid rain on an aquatic environment?",
+        "choices": [
+            "decrease in plant life",
+            "increase in fish population",
+            "increase in plant growth",
+            "cleaner and clearer water"
+        ],
+        "answer": "decrease in plant life",
+        "source": "OpenbookQA"
+    },
+    {
+        "question": "what is the proportionality of a rise in bacteria content and human health?",
+        "choices": [
+            "they are inversely proportional",
+            "they are in direct proportion",
+            "they both cancel each other out",
+            "they lack a relationship"
+        ],
+        "answer": "they are inversely proportional",
+        "source": "OpenbookQA"
+    },
+    {
+        "question": "Where would you hear sound reflecting off surfaces?",
+        "choices": [
+            "canyon",
+            "outer space",
+            "in the ocean",
+            "in a vacuum"
+        ],
+        "answer": "canyon",
+        "source": "OpenbookQA"
+    },
+    {
+        "question": "What is most likely to push objects?",
+        "choices": [
+            "rivers",
+            "rainfall",
+            "photosynthesis",
+            "sunlight"
+        ],
+        "answer": "rivers",
+        "source": "OpenbookQA"
+    },
+    {
+        "question": "What will, for all intents and purposes, never run out?",
+        "choices": [
+            "gasoline",
+            "sunlight",
+            "coal",
+            "natural gas"
+        ],
+        "answer": "sunlight",
+        "source": "OpenbookQA"
+    },
+    {
+        "question": "Feeling is when a living thing senses through what?",
+        "choices": [
+            "sight",
+            "smell",
+            "contact",
+            "taste"
+        ],
+        "answer": "contact",
+        "source": "OpenbookQA"
+    },
+    {
+        "question": "Imagine astronauts traveling to a distant asteroid as it passes near Earth. During their mission they leave behind boot prints. How long will these potentially last?",
+        "choices": [
+            "several months",
+            "5 years",
+            "thousands of years",
+            "2 weeks"
+        ],
+        "answer": "thousands of years",
+        "source": "OpenbookQA"
+    },
+    {
+        "question": "What requires nutrients for survival?",
+        "choices": [
+            "buildings",
+            "rocks",
+            "badgers",
+            "clouds"
+        ],
+        "answer": "badgers",
+        "source": "OpenbookQA"
+    },
+    {
+        "question": "What can be formed by damming a river?",
+        "choices": [
+            "metals",
+            "H2O body",
+            "fires",
+            "mountains"
+        ],
+        "answer": "H2O body",
+        "source": "OpenbookQA"
+    },
+    {
+        "question": "reproduction is when an organism passes genetic information from itself to its what?",
+        "choices": [
+            "feet",
+            "child support",
+            "brain",
+            "younglings"
+        ],
+        "answer": "younglings",
+        "source": "OpenbookQA"
+    },
+    {
+        "question": "The running of the bulls in mexico is a source of what type of energy for the object?",
+        "choices": [
+            "running of bulls",
+            "solar power",
+            "animals",
+            "kinetic"
+        ],
+        "answer": "kinetic",
+        "source": "OpenbookQA"
+    },
+    {
+        "question": "Disregarding nuclear holocausts, how many suns will be in the sunset?",
+        "choices": [
+            "2",
+            "1",
+            "20",
+            "42"
+        ],
+        "answer": "1",
+        "source": "OpenbookQA"
+    },
+    {
+        "question": "What harmful phenomenon can cause atmospheric warming?",
+        "choices": [
+            "gasses with pollution",
+            "acid rain",
+            "nuclear war",
+            "melting ice caps"
+        ],
+        "answer": "gasses with pollution",
+        "source": "OpenbookQA"
+    },
+    {
+        "question": "How should John proceed with eating the fish he just caught?",
+        "choices": [
+            "biting right into it raw",
+            "hold the fish up the sunlight",
+            "putting his boot on a fire spit",
+            "striking flint over kindling and placing the fish above it"
+        ],
+        "answer": "striking flint over kindling and placing the fish above it",
+        "source": "OpenbookQA"
+    },
+    {
+        "question": "A pulley is used to lift what on a flagpole?",
+        "choices": [
+            "banner",
+            "thermometer",
+            "plants",
+            "food"
+        ],
+        "answer": "banner",
+        "source": "OpenbookQA"
+    },
+    {
+        "question": "What makes the best wiring?",
+        "choices": [
+            "rope",
+            "Tungsten",
+            "hemp",
+            "plastic"
+        ],
+        "answer": "Tungsten",
+        "source": "OpenbookQA"
+    },
+    {
+        "question": "Special plant tissues transport what throughout the plant?",
+        "choices": [
+            "dirt",
+            "manganese",
+            "animals",
+            "rage"
+        ],
+        "answer": "manganese",
+        "source": "OpenbookQA"
+    }
+]

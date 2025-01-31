@@ -1,0 +1,14 @@
+.env
+__pycache__/
+test.py
+test.ipynb
+# Ignore .env file
+.env
+
+# Ignore token_log.txt file
+token_log.txt
+algorithm.log
+run.log
+
+eval/
+promptbench/
