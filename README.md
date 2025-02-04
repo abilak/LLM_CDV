@@ -1,13 +1,18 @@
 <h1 align="center">Breaking Focus: Contextual Distraction Curse in Large Language Models</h1>
 <p align="center">
-[<a href="#">Paper</a>] 
-[<a href="https://github.com/wyf23187/LLM_CDV.git">Code</a>]
+    <a href="https://github.com/wyf23187/LLM_CDV">
+        <img src="https://img.shields.io/github/stars/wyf23187/LLM_CDV?style=flat-square&logo=GitHub&logoColor=white" alt="GitHub Repo stars">
+    </a>
+    <a href="https://arxiv.org/abs/2502.01609">
+        <img src="https://img.shields.io/badge/ArXiv-2502.01609-b31b1b?style=flat-square&logo=arXiv&logoColor=white" alt="ArXiv">
+    </a>
+    <a href="https://arxiv.org/pdf/2502.01609">
+        <img src="https://img.shields.io/badge/PDF-Download-4285F4?style=flat-square&logo=Adobe-Acrobat-Reader&logoColor=white" alt="PDF">
+    </a>
 </p>
 
-<!-- ## What's New
-+ [2024.06.20] Initial release of CDV research framework
-  + Full paper available at [arXiv link]()
-  + Open-source code and datasets -->
+
+
 
 ## Introduction
 We present a systematic framework for studying **Contextual Distraction Vulnerability (CDV)** - a critical weakness where semantically coherent contextual additions degrade LLM performance. Our toolkit enables:
