@@ -94,3 +94,16 @@ ANTHROPIC_API_KEY=your_anthropic_api_key
 
 ## License
 Apache License 2.0 - See [LICENSE](LICENSE)
+
+## Citation
+If you use our work, please cite us:
+
+```bibtex
+@article{huang2025contextualdistraction,
+    title={Breaking Focus: Contextual Distraction Curse in Large Language Models},
+    author={Huang, Yue and Wang, Yanbo and Xu, Zixiang and Gao, Chujie and Wu, Siyuan and Ye, Jiayi and Chen, Xiuying and Chen, Pin-Yu and Zhang, Xiangliang},
+    journal={arXiv preprint arXiv:2502.01609},
+    year={2025},
+    url={https://arxiv.org/abs/2502.01609}
+}
+```
