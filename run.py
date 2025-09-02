@@ -187,7 +187,6 @@ def main():
     
     args = parser.parse_args()
 
-    # Load and process data
     with open(args.input_file, 'r', encoding='utf-8') as f:
         data = json.load(f)
 
